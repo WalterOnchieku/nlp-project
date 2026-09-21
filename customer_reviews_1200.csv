@@ -1,0 +1,1201 @@
+review_id,review,sentiment,label,category
+1,"The Bluetooth speaker is worth the money, and the customer support was helpful.",positive,2,Bluetooth speaker
+2,The wireless headphones performs really well. One thing I noticed is that the design is comfortable.,positive,2,wireless headphones
+3,The smartphone has been very disappointing. One thing I noticed is that the setup was confusing.,negative,0,smartphone
+4,"My experience with the wireless headphones is that it has both good and average features. In particular, the support response was acceptable.",neutral,1,wireless headphones
+5,"For a wireless headphones, it has caused me several problems. However, the advertised features do not work.",negative,0,wireless headphones
+6,"After using this Bluetooth speaker for a while, I found that it feels well made. Also, the battery lasts all day.",positive,2,Bluetooth speaker
+7,The Bluetooth speaker feels poorly made. One thing I noticed is that the design is uncomfortable.,negative,0,Bluetooth speaker
+8,"The smartphone is worth the money, and the sound is clear.",positive,2,smartphone
+9,The wireless headphones does what it is supposed to do. One thing I noticed is that the setup took some time.,neutral,1,wireless headphones
+10,I bought the wireless headphones recently. It is surprisingly durable; the design is comfortable.,positive,2,wireless headphones
+11,"After using this wireless headphones for a while, I found that it feels well made. Also, the battery lasts all day.",positive,2,wireless headphones
+12,"After using this wireless headphones for a while, I found that it is not worth the money. Also, the sound is distorted.",negative,0,wireless headphones
+13,I bought the wireless headphones recently. It is not worth the money; customer support was unhelpful.,negative,0,wireless headphones
+14,I bought the wireless headphones recently. It is easy to use; the features are useful.,positive,2,wireless headphones
+15,"The laptop is not worth the money, and the battery drains very quickly.",negative,0,laptop
+16,"After using this smartphone for a while, I found that it has poor overall quality. Also, the battery drains very quickly.",negative,0,smartphone
+17,"My experience with the smartphone is that it is acceptable for the price. In particular, the design is fairly basic.",neutral,1,smartphone
+18,The Bluetooth speaker is neither particularly good nor bad. One thing I noticed is that the delivery arrived on time.,neutral,1,Bluetooth speaker
+19,"After using this wireless headphones for a while, I found that it has been reliable so far. Also, the customer support was helpful.",positive,2,wireless headphones
+20,The wireless headphones is acceptable for the price. One thing I noticed is that the design is fairly basic.,neutral,1,wireless headphones
+21,"After using this Bluetooth speaker for a while, I found that it was a frustrating purchase. Also, the battery drains very quickly.",negative,0,Bluetooth speaker
+22,The laptop works reasonably well. One thing I noticed is that the support response was acceptable.,neutral,1,laptop
+23,"The laptop is okay overall, and the controls take some getting used to.",neutral,1,laptop
+24,"After using this Bluetooth speaker for a while, I found that it is not worth the money. Also, the sound is distorted.",negative,0,Bluetooth speaker
+25,I bought the smartphone recently. It has been very disappointing; customer support was unhelpful.,negative,0,smartphone
+26,I bought the laptop recently. It has poor overall quality; the packaging arrived damaged.,negative,0,laptop
+27,I bought the laptop recently. It is okay overall; the packaging was ordinary.,neutral,1,laptop
+28,"After using this smartphone for a while, I found that it is okay overall. Also, the battery life is average.",neutral,1,smartphone
+29,"For a Bluetooth speaker, it has caused me several problems. However, the advertised features do not work.",negative,0,Bluetooth speaker
+30,"The smartphone is usable but not outstanding, and the features are useful but limited.",neutral,1,smartphone
+31,"The Bluetooth speaker I would not recommend it, and the battery drains very quickly.",negative,0,Bluetooth speaker
+32,"My experience with the wireless headphones is that it has made my daily routine much easier. In particular, the performance is smooth.",positive,2,wireless headphones
+33,"For a laptop, it is usable but not outstanding. However, the performance is adequate.",neutral,1,laptop
+34,"My experience with the Bluetooth speaker is that it is acceptable for the price. In particular, the packaging was ordinary.",neutral,1,Bluetooth speaker
+35,"After using this Bluetooth speaker for a while, I found that it performs worse than advertised. Also, the performance is slow.",negative,0,Bluetooth speaker
+36,"For a smartphone, it is usable but not outstanding. However, the controls take some getting used to.",neutral,1,smartphone
+37,"My experience with the wireless headphones is that it is acceptable for the price. In particular, the packaging was ordinary.",neutral,1,wireless headphones
+38,"For a wireless headphones, it has poor overall quality. However, the battery drains very quickly.",negative,0,wireless headphones
+39,"My experience with the Bluetooth speaker is that it feels poorly made. In particular, the setup was confusing.",negative,0,Bluetooth speaker
+40,"The laptop has not impressed me much, and the performance is adequate.",neutral,1,laptop
+41,I bought the laptop recently. It performs really well; the design is comfortable.,positive,2,laptop
+42,The smartphone has been very disappointing. One thing I noticed is that the packaging arrived damaged.,negative,0,smartphone
+43,"After using this Bluetooth speaker for a while, I found that it works exactly as expected. Also, the customer support was helpful.",positive,2,Bluetooth speaker
+44,I bought the Bluetooth speaker recently. It has caused me several problems; the delivery was late.,negative,0,Bluetooth speaker
+45,"The smartphone is surprisingly durable, and the battery lasts all day.",positive,2,smartphone
+46,"The Bluetooth speaker is not worth the money, and the performance is slow.",negative,0,Bluetooth speaker
+47,"The Bluetooth speaker has caused me several problems, and the sound is distorted.",negative,0,Bluetooth speaker
+48,The wireless headphones feels poorly made. One thing I noticed is that the design is uncomfortable.,negative,0,wireless headphones
+49,I bought the wireless headphones recently. It is not worth the money; the design is uncomfortable.,negative,0,wireless headphones
+50,"My experience with the laptop is that it is not worth the money. In particular, the design is uncomfortable.",negative,0,laptop
+51,I bought the Bluetooth speaker recently. It has both good and average features; the packaging was ordinary.,neutral,1,Bluetooth speaker
+52,The Bluetooth speaker has been reliable so far. One thing I noticed is that the design is comfortable.,positive,2,Bluetooth speaker
+53,I bought the Bluetooth speaker recently. It performs worse than advertised; the packaging arrived damaged.,negative,0,Bluetooth speaker
+54,I bought the smartphone recently. It performs worse than advertised; the design is uncomfortable.,negative,0,smartphone
+55,"My experience with the Bluetooth speaker is that it has excellent quality. In particular, the design is comfortable.",positive,2,Bluetooth speaker
+56,"After using this Bluetooth speaker for a while, I found that it stopped working sooner than expected. Also, the performance is slow.",negative,0,Bluetooth speaker
+57,"After using this smartphone for a while, I found that it looks great and feels solid. Also, the customer support was helpful.",positive,2,smartphone
+58,"The Bluetooth speaker is worth the money, and the controls are intuitive.",positive,2,Bluetooth speaker
+59,"My experience with the laptop is that it works exactly as expected. In particular, the setup was quick.",positive,2,laptop
+60,The Bluetooth speaker has poor overall quality. One thing I noticed is that the packaging arrived damaged.,negative,0,Bluetooth speaker
+61,"My experience with the Bluetooth speaker is that it has been very disappointing. In particular, customer support was unhelpful.",negative,0,Bluetooth speaker
+62,The smartphone has caused me several problems. One thing I noticed is that the delivery was late.,negative,0,smartphone
+63,"The laptop does not work properly, and the battery drains very quickly.",negative,0,laptop
+64,"After using this wireless headphones for a while, I found that it was a frustrating purchase. Also, the controls frequently stop responding.",negative,0,wireless headphones
+65,"The smartphone performs worse than advertised, and the advertised features do not work.",negative,0,smartphone
+66,"After using this smartphone for a while, I found that it has made my daily routine much easier. Also, the sound is clear.",positive,2,smartphone
+67,"My experience with the wireless headphones is that it has caused me several problems. In particular, the setup was confusing.",negative,0,wireless headphones
+68,"After using this wireless headphones for a while, I found that it has both good and average features. Also, the features are useful but limited.",neutral,1,wireless headphones
+69,The smartphone is fine for basic use. One thing I noticed is that the support response was acceptable.,neutral,1,smartphone
+70,"The wireless headphones is usable but not outstanding, and the battery life is average.",neutral,1,wireless headphones
+71,I bought the wireless headphones recently. It is acceptable for the price; the delivery arrived on time.,neutral,1,wireless headphones
+72,"My experience with the smartphone is that it stopped working sooner than expected. In particular, the delivery was late.",negative,0,smartphone
+73,I bought the Bluetooth speaker recently. It has made my daily routine much easier; the setup was quick.,positive,2,Bluetooth speaker
+74,"The wireless headphones has caused me several problems, and the sound is distorted.",negative,0,wireless headphones
+75,"The wireless headphones has poor overall quality, and the advertised features do not work.",negative,0,wireless headphones
+76,"The wireless headphones has both good and average features, and the battery life is average.",neutral,1,wireless headphones
+77,"For a smartphone, it was a frustrating purchase. However, the sound is distorted.",negative,0,smartphone
+78,"After using this wireless headphones for a while, I found that it has caused me several problems. Also, the controls frequently stop responding.",negative,0,wireless headphones
+79,"For a smartphone, it is easy to use. However, the controls are intuitive.",positive,2,smartphone
+80,"After using this wireless headphones for a while, I found that it is surprisingly durable. Also, the battery lasts all day.",positive,2,wireless headphones
+81,"My experience with the Bluetooth speaker is that it performs really well. In particular, the performance is smooth.",positive,2,Bluetooth speaker
+82,"After using this laptop for a while, I found that it does not work properly. Also, the advertised features do not work.",negative,0,laptop
+83,"After using this wireless headphones for a while, I found that it is easy to use. Also, the sound is clear.",positive,2,wireless headphones
+84,The smartphone does not work properly. One thing I noticed is that the design is uncomfortable.,negative,0,smartphone
+85,"For a smartphone, it is fine for basic use. However, the features are useful but limited.",neutral,1,smartphone
+86,"After using this laptop for a while, I found that it has excellent quality. Also, the customer support was helpful.",positive,2,laptop
+87,"After using this laptop for a while, I found that it is worth the money. Also, the controls are intuitive.",positive,2,laptop
+88,"The smartphone has poor overall quality, and the sound is distorted.",negative,0,smartphone
+89,"The laptop feels well made, and the controls are intuitive.",positive,2,laptop
+90,The laptop does what it is supposed to do. One thing I noticed is that the delivery arrived on time.,neutral,1,laptop
+91,The smartphone does what it is supposed to do. One thing I noticed is that the design is fairly basic.,neutral,1,smartphone
+92,I bought the wireless headphones recently. It is neither particularly good nor bad; the setup took some time.,neutral,1,wireless headphones
+93,"For a laptop, it was a frustrating purchase. However, the controls frequently stop responding.",negative,0,laptop
+94,"My experience with the Bluetooth speaker is that it was a frustrating purchase. In particular, the setup was confusing.",negative,0,Bluetooth speaker
+95,"My experience with the laptop is that it works exactly as expected. In particular, the packaging was secure.",positive,2,laptop
+96,"The laptop is okay overall, and the battery life is average.",neutral,1,laptop
+97,"After using this smartphone for a while, I found that it has both good and average features. Also, the sound quality is decent.",neutral,1,smartphone
+98,I bought the smartphone recently. It works exactly as expected; the features are useful.,positive,2,smartphone
+99,"For a laptop, it I would not recommend it. However, the performance is slow.",negative,0,laptop
+100,"My experience with the smartphone is that it feels poorly made. In particular, the design is uncomfortable.",negative,0,smartphone
+101,"After using this smartphone for a while, I found that it meets my basic expectations. Also, the performance is adequate.",neutral,1,smartphone
+102,"After using this smartphone for a while, I found that it is not worth the money. Also, the battery drains very quickly.",negative,0,smartphone
+103,The Bluetooth speaker has both good and average features. One thing I noticed is that the delivery arrived on time.,neutral,1,Bluetooth speaker
+104,"My experience with the wireless headphones is that it was a frustrating purchase. In particular, the setup was confusing.",negative,0,wireless headphones
+105,"My experience with the wireless headphones is that it looks great and feels solid. In particular, the setup was quick.",positive,2,wireless headphones
+106,"My experience with the Bluetooth speaker is that it has both good and average features. In particular, the support response was acceptable.",neutral,1,Bluetooth speaker
+107,I bought the Bluetooth speaker recently. It works exactly as expected; the setup was quick.,positive,2,Bluetooth speaker
+108,"The smartphone works exactly as expected, and the customer support was helpful.",positive,2,smartphone
+109,"The Bluetooth speaker performs really well, and the delivery was fast.",positive,2,Bluetooth speaker
+110,"For a smartphone, it has been reliable so far. However, the delivery was fast.",positive,2,smartphone
+111,The Bluetooth speaker has poor overall quality. One thing I noticed is that the setup was confusing.,negative,0,Bluetooth speaker
+112,The wireless headphones looks great and feels solid. One thing I noticed is that the features are useful.,positive,2,wireless headphones
+113,"The smartphone has caused me several problems, and the controls frequently stop responding.",negative,0,smartphone
+114,The smartphone has made my daily routine much easier. One thing I noticed is that the setup was quick.,positive,2,smartphone
+115,The laptop is acceptable for the price. One thing I noticed is that the setup took some time.,neutral,1,laptop
+116,"My experience with the laptop is that it has been reliable so far. In particular, the packaging was secure.",positive,2,laptop
+117,"For a laptop, it is not worth the money. However, the sound is distorted.",negative,0,laptop
+118,"After using this smartphone for a while, I found that it has caused me several problems. Also, the advertised features do not work.",negative,0,smartphone
+119,"My experience with the Bluetooth speaker is that it is fine for basic use. In particular, the delivery arrived on time.",neutral,1,Bluetooth speaker
+120,"The smartphone I would not recommend it, and the performance is slow.",negative,0,smartphone
+121,I bought the smartphone recently. It has both good and average features; the design is fairly basic.,neutral,1,smartphone
+122,I bought the smartphone recently. It works exactly as expected; the performance is smooth.,positive,2,smartphone
+123,The laptop works exactly as expected. One thing I noticed is that the performance is smooth.,positive,2,laptop
+124,The laptop performs really well. One thing I noticed is that the features are useful.,positive,2,laptop
+125,I bought the wireless headphones recently. It does what it is supposed to do; the design is fairly basic.,neutral,1,wireless headphones
+126,"After using this Bluetooth speaker for a while, I found that it looks great and feels solid. Also, the delivery was fast.",positive,2,Bluetooth speaker
+127,"My experience with the Bluetooth speaker is that it feels poorly made. In particular, the packaging arrived damaged.",negative,0,Bluetooth speaker
+128,"After using this smartphone for a while, I found that it feels poorly made. Also, the advertised features do not work.",negative,0,smartphone
+129,"The laptop is usable but not outstanding, and the sound quality is decent.",neutral,1,laptop
+130,"After using this laptop for a while, I found that it has both good and average features. Also, the battery life is average.",neutral,1,laptop
+131,"For a laptop, it has poor overall quality. However, the sound is distorted.",negative,0,laptop
+132,The Bluetooth speaker is easy to use. One thing I noticed is that the packaging was secure.,positive,2,Bluetooth speaker
+133,"After using this Bluetooth speaker for a while, I found that it has been very disappointing. Also, the advertised features do not work.",negative,0,Bluetooth speaker
+134,The laptop stopped working sooner than expected. One thing I noticed is that the design is uncomfortable.,negative,0,laptop
+135,I bought the laptop recently. It is easy to use; the packaging was secure.,positive,2,laptop
+136,"The laptop is acceptable for the price, and the performance is adequate.",neutral,1,laptop
+137,"My experience with the laptop is that it is fine for basic use. In particular, the design is fairly basic.",neutral,1,laptop
+138,"The wireless headphones is okay overall, and the features are useful but limited.",neutral,1,wireless headphones
+139,The wireless headphones is okay overall. One thing I noticed is that the setup took some time.,neutral,1,wireless headphones
+140,The smartphone feels well made. One thing I noticed is that the design is comfortable.,positive,2,smartphone
+141,"My experience with the laptop is that it has made my daily routine much easier. In particular, the packaging was secure.",positive,2,laptop
+142,"For a laptop, it is acceptable for the price. However, the controls take some getting used to.",neutral,1,laptop
+143,"For a Bluetooth speaker, it I would not recommend it. However, the sound is distorted.",negative,0,Bluetooth speaker
+144,"After using this laptop for a while, I found that it has both good and average features. Also, the controls take some getting used to.",neutral,1,laptop
+145,I bought the Bluetooth speaker recently. It is neither particularly good nor bad; the packaging was ordinary.,neutral,1,Bluetooth speaker
+146,"The smartphone has both good and average features, and the performance is adequate.",neutral,1,smartphone
+147,The Bluetooth speaker does what it is supposed to do. One thing I noticed is that the packaging was ordinary.,neutral,1,Bluetooth speaker
+148,"After using this laptop for a while, I found that it is neither particularly good nor bad. Also, the controls take some getting used to.",neutral,1,laptop
+149,The smartphone is usable but not outstanding. One thing I noticed is that the packaging was ordinary.,neutral,1,smartphone
+150,"My experience with the wireless headphones is that it meets my basic expectations. In particular, the setup took some time.",neutral,1,wireless headphones
+151,"After using this Bluetooth speaker for a while, I found that it works exactly as expected. Also, the controls are intuitive.",positive,2,Bluetooth speaker
+152,"After using this Bluetooth speaker for a while, I found that it does not work properly. Also, the sound is distorted.",negative,0,Bluetooth speaker
+153,"For a Bluetooth speaker, it is acceptable for the price. However, the features are useful but limited.",neutral,1,Bluetooth speaker
+154,The laptop has been very disappointing. One thing I noticed is that customer support was unhelpful.,negative,0,laptop
+155,I bought the smartphone recently. It has been reliable so far; the performance is smooth.,positive,2,smartphone
+156,"My experience with the wireless headphones is that it has both good and average features. In particular, the design is fairly basic.",neutral,1,wireless headphones
+157,"For a Bluetooth speaker, it feels poorly made. However, the advertised features do not work.",negative,0,Bluetooth speaker
+158,"After using this laptop for a while, I found that it performs worse than advertised. Also, the battery drains very quickly.",negative,0,laptop
+159,"For a Bluetooth speaker, it has excellent quality. However, the delivery was fast.",positive,2,Bluetooth speaker
+160,"The Bluetooth speaker has been very disappointing, and the controls frequently stop responding.",negative,0,Bluetooth speaker
+161,"After using this laptop for a while, I found that it performs really well. Also, the delivery was fast.",positive,2,laptop
+162,I bought the smartphone recently. It feels well made; the packaging was secure.,positive,2,smartphone
+163,"After using this laptop for a while, I found that it feels well made. Also, the sound is clear.",positive,2,laptop
+164,"The laptop has poor overall quality, and the battery drains very quickly.",negative,0,laptop
+165,"After using this laptop for a while, I found that it I would not recommend it. Also, the battery drains very quickly.",negative,0,laptop
+166,"The wireless headphones has excellent quality, and the controls are intuitive.",positive,2,wireless headphones
+167,"The wireless headphones I would not recommend it, and the controls frequently stop responding.",negative,0,wireless headphones
+168,"My experience with the wireless headphones is that it looks great and feels solid. In particular, the packaging was secure.",positive,2,wireless headphones
+169,"The wireless headphones has excellent quality, and the customer support was helpful.",positive,2,wireless headphones
+170,I bought the wireless headphones recently. It stopped working sooner than expected; the setup was confusing.,negative,0,wireless headphones
+171,"After using this Bluetooth speaker for a while, I found that it is neither particularly good nor bad. Also, the performance is adequate.",neutral,1,Bluetooth speaker
+172,"My experience with the smartphone is that it is surprisingly durable. In particular, the performance is smooth.",positive,2,smartphone
+173,I bought the Bluetooth speaker recently. It does not work properly; customer support was unhelpful.,negative,0,Bluetooth speaker
+174,"For a laptop, it I would not recommend it. However, the advertised features do not work.",negative,0,laptop
+175,I bought the smartphone recently. It I would not recommend it; customer support was unhelpful.,negative,0,smartphone
+176,"For a smartphone, it is neither particularly good nor bad. However, the battery life is average.",neutral,1,smartphone
+177,"For a smartphone, it has poor overall quality. However, the advertised features do not work.",negative,0,smartphone
+178,I bought the Bluetooth speaker recently. It has been reliable so far; the setup was quick.,positive,2,Bluetooth speaker
+179,"For a wireless headphones, it was a frustrating purchase. However, the advertised features do not work.",negative,0,wireless headphones
+180,"My experience with the Bluetooth speaker is that it meets my basic expectations. In particular, the packaging was ordinary.",neutral,1,Bluetooth speaker
+181,"The Bluetooth speaker is acceptable for the price, and the sound quality is decent.",neutral,1,Bluetooth speaker
+182,"After using this wireless headphones for a while, I found that it feels well made. Also, the delivery was fast.",positive,2,wireless headphones
+183,"For a laptop, it has been very disappointing. However, the advertised features do not work.",negative,0,laptop
+184,The laptop has been reliable so far. One thing I noticed is that the features are useful.,positive,2,laptop
+185,"After using this laptop for a while, I found that it I would not recommend it. Also, the controls frequently stop responding.",negative,0,laptop
+186,The smartphone has made my daily routine much easier. One thing I noticed is that the packaging was secure.,positive,2,smartphone
+187,I bought the wireless headphones recently. It is usable but not outstanding; the packaging was ordinary.,neutral,1,wireless headphones
+188,"For a wireless headphones, it has been reliable so far. However, the sound is clear.",positive,2,wireless headphones
+189,The wireless headphones is acceptable for the price. One thing I noticed is that the support response was acceptable.,neutral,1,wireless headphones
+190,"For a smartphone, it works reasonably well. However, the controls take some getting used to.",neutral,1,smartphone
+191,"The wireless headphones has been reliable so far, and the battery lasts all day.",positive,2,wireless headphones
+192,The laptop is usable but not outstanding. One thing I noticed is that the design is fairly basic.,neutral,1,laptop
+193,"For a wireless headphones, it does not work properly. However, the battery drains very quickly.",negative,0,wireless headphones
+194,The wireless headphones is easy to use. One thing I noticed is that the packaging was secure.,positive,2,wireless headphones
+195,"After using this wireless headphones for a while, I found that it is neither particularly good nor bad. Also, the performance is adequate.",neutral,1,wireless headphones
+196,"The smartphone I would not recommend it, and the advertised features do not work.",negative,0,smartphone
+197,The wireless headphones has caused me several problems. One thing I noticed is that customer support was unhelpful.,negative,0,wireless headphones
+198,"For a smartphone, it works exactly as expected. However, the delivery was fast.",positive,2,smartphone
+199,"For a smartphone, it has made my daily routine much easier. However, the delivery was fast.",positive,2,smartphone
+200,The laptop has poor overall quality. One thing I noticed is that the delivery was late.,negative,0,laptop
+201,"After using this wireless headphones for a while, I found that it works exactly as expected. Also, the customer support was helpful.",positive,2,wireless headphones
+202,The smartphone works exactly as expected. One thing I noticed is that the packaging was secure.,positive,2,smartphone
+203,The laptop has not impressed me much. One thing I noticed is that the packaging was ordinary.,neutral,1,laptop
+204,"The smartphone is surprisingly durable, and the delivery was fast.",positive,2,smartphone
+205,I bought the wireless headphones recently. It looks great and feels solid; the design is comfortable.,positive,2,wireless headphones
+206,"For a laptop, it feels poorly made. However, the battery drains very quickly.",negative,0,laptop
+207,"For a Bluetooth speaker, it meets my basic expectations. However, the features are useful but limited.",neutral,1,Bluetooth speaker
+208,The Bluetooth speaker does what it is supposed to do. One thing I noticed is that the setup took some time.,neutral,1,Bluetooth speaker
+209,I bought the Bluetooth speaker recently. It does what it is supposed to do; the design is fairly basic.,neutral,1,Bluetooth speaker
+210,"The Bluetooth speaker has excellent quality, and the controls are intuitive.",positive,2,Bluetooth speaker
+211,"The Bluetooth speaker has made my daily routine much easier, and the battery lasts all day.",positive,2,Bluetooth speaker
+212,The Bluetooth speaker meets my basic expectations. One thing I noticed is that the support response was acceptable.,neutral,1,Bluetooth speaker
+213,"My experience with the wireless headphones is that it does what it is supposed to do. In particular, the delivery arrived on time.",neutral,1,wireless headphones
+214,"After using this wireless headphones for a while, I found that it has made my daily routine much easier. Also, the customer support was helpful.",positive,2,wireless headphones
+215,"After using this smartphone for a while, I found that it has been reliable so far. Also, the sound is clear.",positive,2,smartphone
+216,I bought the laptop recently. It performs worse than advertised; the delivery was late.,negative,0,laptop
+217,"My experience with the laptop is that it has both good and average features. In particular, the setup took some time.",neutral,1,laptop
+218,I bought the laptop recently. It is not worth the money; the packaging arrived damaged.,negative,0,laptop
+219,"The laptop meets my basic expectations, and the performance is adequate.",neutral,1,laptop
+220,"After using this smartphone for a while, I found that it has not impressed me much. Also, the features are useful but limited.",neutral,1,smartphone
+221,"The Bluetooth speaker has been reliable so far, and the delivery was fast.",positive,2,Bluetooth speaker
+222,The smartphone performs really well. One thing I noticed is that the packaging was secure.,positive,2,smartphone
+223,"The laptop works exactly as expected, and the sound is clear.",positive,2,laptop
+224,"For a smartphone, it looks great and feels solid. However, the sound is clear.",positive,2,smartphone
+225,"The laptop I would not recommend it, and the sound is distorted.",negative,0,laptop
+226,The smartphone does what it is supposed to do. One thing I noticed is that the support response was acceptable.,neutral,1,smartphone
+227,"For a Bluetooth speaker, it is okay overall. However, the battery life is average.",neutral,1,Bluetooth speaker
+228,The wireless headphones was a frustrating purchase. One thing I noticed is that the design is uncomfortable.,negative,0,wireless headphones
+229,"My experience with the laptop is that it stopped working sooner than expected. In particular, the setup was confusing.",negative,0,laptop
+230,"For a laptop, it is acceptable for the price. However, the battery life is average.",neutral,1,laptop
+231,"My experience with the Bluetooth speaker is that it stopped working sooner than expected. In particular, the design is uncomfortable.",negative,0,Bluetooth speaker
+232,"My experience with the smartphone is that it feels poorly made. In particular, customer support was unhelpful.",negative,0,smartphone
+233,I bought the laptop recently. It has excellent quality; the setup was quick.,positive,2,laptop
+234,"For a laptop, it is fine for basic use. However, the sound quality is decent.",neutral,1,laptop
+235,The smartphone is worth the money. One thing I noticed is that the performance is smooth.,positive,2,smartphone
+236,"For a Bluetooth speaker, it was a frustrating purchase. However, the performance is slow.",negative,0,Bluetooth speaker
+237,I bought the wireless headphones recently. It performs really well; the packaging was secure.,positive,2,wireless headphones
+238,"For a smartphone, it is fine for basic use. However, the performance is adequate.",neutral,1,smartphone
+239,"My experience with the Bluetooth speaker is that it has made my daily routine much easier. In particular, the performance is smooth.",positive,2,Bluetooth speaker
+240,"After using this wireless headphones for a while, I found that it is worth the money. Also, the sound is clear.",positive,2,wireless headphones
+241,I bought the Bluetooth speaker recently. It stopped working sooner than expected; the setup was confusing.,negative,0,Bluetooth speaker
+242,"My experience with the wireless headphones is that it works reasonably well. In particular, the support response was acceptable.",neutral,1,wireless headphones
+243,"For a wireless headphones, it has poor overall quality. However, the controls frequently stop responding.",negative,0,wireless headphones
+244,"After using this wireless headphones for a while, I found that it performs really well. Also, the customer support was helpful.",positive,2,wireless headphones
+245,"The smartphone stopped working sooner than expected, and the advertised features do not work.",negative,0,smartphone
+246,The smartphone is fine for basic use. One thing I noticed is that the design is fairly basic.,neutral,1,smartphone
+247,"My experience with the laptop is that it is okay overall. In particular, the design is fairly basic.",neutral,1,laptop
+248,"The smartphone feels well made, and the battery lasts all day.",positive,2,smartphone
+249,"My experience with the wireless headphones is that it performs worse than advertised. In particular, the design is uncomfortable.",negative,0,wireless headphones
+250,"My experience with the smartphone is that it is not worth the money. In particular, the setup was confusing.",negative,0,smartphone
+251,"For a Bluetooth speaker, it does what it is supposed to do. However, the controls take some getting used to.",neutral,1,Bluetooth speaker
+252,"For a Bluetooth speaker, it has poor overall quality. However, the controls frequently stop responding.",negative,0,Bluetooth speaker
+253,"My experience with the Bluetooth speaker is that it performs worse than advertised. In particular, the design is uncomfortable.",negative,0,Bluetooth speaker
+254,I bought the smartphone recently. It stopped working sooner than expected; customer support was unhelpful.,negative,0,smartphone
+255,"The wireless headphones looks great and feels solid, and the sound is clear.",positive,2,wireless headphones
+256,I bought the laptop recently. It is easy to use; the setup was quick.,positive,2,laptop
+257,"After using this laptop for a while, I found that it feels poorly made. Also, the sound is distorted.",negative,0,laptop
+258,"The smartphone does what it is supposed to do, and the sound quality is decent.",neutral,1,smartphone
+259,"After using this laptop for a while, I found that it performs worse than advertised. Also, the controls frequently stop responding.",negative,0,laptop
+260,"My experience with the Bluetooth speaker is that it performs really well. In particular, the features are useful.",positive,2,Bluetooth speaker
+261,"After using this wireless headphones for a while, I found that it meets my basic expectations. Also, the controls take some getting used to.",neutral,1,wireless headphones
+262,"For a Bluetooth speaker, it has caused me several problems. However, the performance is slow.",negative,0,Bluetooth speaker
+263,I bought the laptop recently. It works exactly as expected; the design is comfortable.,positive,2,laptop
+264,I bought the laptop recently. It does what it is supposed to do; the packaging was ordinary.,neutral,1,laptop
+265,"My experience with the laptop is that it is neither particularly good nor bad. In particular, the packaging was ordinary.",neutral,1,laptop
+266,"After using this Bluetooth speaker for a while, I found that it is okay overall. Also, the sound quality is decent.",neutral,1,Bluetooth speaker
+267,"My experience with the smartphone is that it has not impressed me much. In particular, the design is fairly basic.",neutral,1,smartphone
+268,I bought the smartphone recently. It is okay overall; the delivery arrived on time.,neutral,1,smartphone
+269,"The smartphone has excellent quality, and the sound is clear.",positive,2,smartphone
+270,The wireless headphones is neither particularly good nor bad. One thing I noticed is that the delivery arrived on time.,neutral,1,wireless headphones
+271,"For a smartphone, it is usable but not outstanding. However, the battery life is average.",neutral,1,smartphone
+272,"For a Bluetooth speaker, it is neither particularly good nor bad. However, the sound quality is decent.",neutral,1,Bluetooth speaker
+273,"The laptop has both good and average features, and the sound quality is decent.",neutral,1,laptop
+274,I bought the wireless headphones recently. It has been reliable so far; the packaging was secure.,positive,2,wireless headphones
+275,I bought the laptop recently. It was a frustrating purchase; customer support was unhelpful.,negative,0,laptop
+276,"My experience with the wireless headphones is that it stopped working sooner than expected. In particular, customer support was unhelpful.",negative,0,wireless headphones
+277,"The wireless headphones stopped working sooner than expected, and the battery drains very quickly.",negative,0,wireless headphones
+278,"After using this laptop for a while, I found that it is not worth the money. Also, the performance is slow.",negative,0,laptop
+279,"For a wireless headphones, it is acceptable for the price. However, the features are useful but limited.",neutral,1,wireless headphones
+280,"For a smartphone, it stopped working sooner than expected. However, the controls frequently stop responding.",negative,0,smartphone
+281,"The Bluetooth speaker works exactly as expected, and the battery lasts all day.",positive,2,Bluetooth speaker
+282,"For a wireless headphones, it performs really well. However, the sound is clear.",positive,2,wireless headphones
+283,"My experience with the wireless headphones is that it has been very disappointing. In particular, the design is uncomfortable.",negative,0,wireless headphones
+284,"After using this wireless headphones for a while, I found that it has been reliable so far. Also, the controls are intuitive.",positive,2,wireless headphones
+285,"For a laptop, it works reasonably well. However, the performance is adequate.",neutral,1,laptop
+286,The laptop has been reliable so far. One thing I noticed is that the performance is smooth.,positive,2,laptop
+287,"After using this laptop for a while, I found that it has not impressed me much. Also, the sound quality is decent.",neutral,1,laptop
+288,I bought the wireless headphones recently. It is easy to use; the performance is smooth.,positive,2,wireless headphones
+289,The Bluetooth speaker meets my basic expectations. One thing I noticed is that the design is fairly basic.,neutral,1,Bluetooth speaker
+290,"My experience with the laptop is that it is worth the money. In particular, the performance is smooth.",positive,2,laptop
+291,"The wireless headphones is fine for basic use, and the performance is adequate.",neutral,1,wireless headphones
+292,The Bluetooth speaker is worth the money. One thing I noticed is that the packaging was secure.,positive,2,Bluetooth speaker
+293,The wireless headphones has both good and average features. One thing I noticed is that the delivery arrived on time.,neutral,1,wireless headphones
+294,"After using this Bluetooth speaker for a while, I found that it performs really well. Also, the customer support was helpful.",positive,2,Bluetooth speaker
+295,"For a smartphone, it has been very disappointing. However, the battery drains very quickly.",negative,0,smartphone
+296,"The Bluetooth speaker is okay overall, and the performance is adequate.",neutral,1,Bluetooth speaker
+297,"For a wireless headphones, it is usable but not outstanding. However, the sound quality is decent.",neutral,1,wireless headphones
+298,The laptop feels well made. One thing I noticed is that the packaging was secure.,positive,2,laptop
+299,"The wireless headphones works exactly as expected, and the delivery was fast.",positive,2,wireless headphones
+300,The Bluetooth speaker is easy to use. One thing I noticed is that the setup was quick.,positive,2,Bluetooth speaker
+301,"My experience with the wireless headphones is that it is easy to use. In particular, the design is comfortable.",positive,2,wireless headphones
+302,"The smartphone looks great and feels solid, and the delivery was fast.",positive,2,smartphone
+303,The laptop feels poorly made. One thing I noticed is that the packaging arrived damaged.,negative,0,laptop
+304,"After using this Bluetooth speaker for a while, I found that it has made my daily routine much easier. Also, the controls are intuitive.",positive,2,Bluetooth speaker
+305,I bought the laptop recently. It is okay overall; the setup took some time.,neutral,1,laptop
+306,"For a wireless headphones, it is surprisingly durable. However, the customer support was helpful.",positive,2,wireless headphones
+307,"For a smartphone, it feels well made. However, the sound is clear.",positive,2,smartphone
+308,"The wireless headphones performs worse than advertised, and the controls frequently stop responding.",negative,0,wireless headphones
+309,I bought the wireless headphones recently. It performs worse than advertised; the packaging arrived damaged.,negative,0,wireless headphones
+310,"For a wireless headphones, it has excellent quality. However, the delivery was fast.",positive,2,wireless headphones
+311,I bought the laptop recently. It does not work properly; the setup was confusing.,negative,0,laptop
+312,"The wireless headphones does not work properly, and the performance is slow.",negative,0,wireless headphones
+313,"My experience with the wireless headphones is that it is usable but not outstanding. In particular, the design is fairly basic.",neutral,1,wireless headphones
+314,"For a Bluetooth speaker, it performs really well. However, the sound is clear.",positive,2,Bluetooth speaker
+315,The laptop I would not recommend it. One thing I noticed is that customer support was unhelpful.,negative,0,laptop
+316,"For a wireless headphones, it does what it is supposed to do. However, the battery life is average.",neutral,1,wireless headphones
+317,"After using this Bluetooth speaker for a while, I found that it has not impressed me much. Also, the controls take some getting used to.",neutral,1,Bluetooth speaker
+318,"For a laptop, it is worth the money. However, the sound is clear.",positive,2,laptop
+319,I bought the laptop recently. It is usable but not outstanding; the delivery arrived on time.,neutral,1,laptop
+320,"After using this Bluetooth speaker for a while, I found that it is surprisingly durable. Also, the battery lasts all day.",positive,2,Bluetooth speaker
+321,The Bluetooth speaker is acceptable for the price. One thing I noticed is that the design is fairly basic.,neutral,1,Bluetooth speaker
+322,The laptop has excellent quality. One thing I noticed is that the design is comfortable.,positive,2,laptop
+323,I bought the smartphone recently. It is acceptable for the price; the packaging was ordinary.,neutral,1,smartphone
+324,I bought the smartphone recently. It is usable but not outstanding; the support response was acceptable.,neutral,1,smartphone
+325,I bought the Bluetooth speaker recently. It has excellent quality; the features are useful.,positive,2,Bluetooth speaker
+326,"For a smartphone, it is neither particularly good nor bad. However, the controls take some getting used to.",neutral,1,smartphone
+327,"The Bluetooth speaker has both good and average features, and the battery life is average.",neutral,1,Bluetooth speaker
+328,"My experience with the laptop is that it has poor overall quality. In particular, the design is uncomfortable.",negative,0,laptop
+329,"For a smartphone, it performs really well. However, the delivery was fast.",positive,2,smartphone
+330,"My experience with the laptop is that it stopped working sooner than expected. In particular, the packaging arrived damaged.",negative,0,laptop
+331,The wireless headphones works reasonably well. One thing I noticed is that the delivery arrived on time.,neutral,1,wireless headphones
+332,"After using this wireless headphones for a while, I found that it has been very disappointing. Also, the performance is slow.",negative,0,wireless headphones
+333,"The wireless headphones has been very disappointing, and the controls frequently stop responding.",negative,0,wireless headphones
+334,The Bluetooth speaker does not work properly. One thing I noticed is that the setup was confusing.,negative,0,Bluetooth speaker
+335,"After using this laptop for a while, I found that it has made my daily routine much easier. Also, the battery lasts all day.",positive,2,laptop
+336,"My experience with the wireless headphones is that it has not impressed me much. In particular, the setup took some time.",neutral,1,wireless headphones
+337,"My experience with the Bluetooth speaker is that it is acceptable for the price. In particular, the setup took some time.",neutral,1,Bluetooth speaker
+338,The laptop does not work properly. One thing I noticed is that the delivery was late.,negative,0,laptop
+339,"My experience with the laptop is that it looks great and feels solid. In particular, the design is comfortable.",positive,2,laptop
+340,"My experience with the wireless headphones is that it feels poorly made. In particular, the packaging arrived damaged.",negative,0,wireless headphones
+341,"My experience with the Bluetooth speaker is that it is surprisingly durable. In particular, the packaging was secure.",positive,2,Bluetooth speaker
+342,I bought the Bluetooth speaker recently. It performs worse than advertised; the setup was confusing.,negative,0,Bluetooth speaker
+343,"For a wireless headphones, it feels well made. However, the controls are intuitive.",positive,2,wireless headphones
+344,"After using this Bluetooth speaker for a while, I found that it meets my basic expectations. Also, the battery life is average.",neutral,1,Bluetooth speaker
+345,"The laptop is acceptable for the price, and the features are useful but limited.",neutral,1,laptop
+346,The wireless headphones has not impressed me much. One thing I noticed is that the design is fairly basic.,neutral,1,wireless headphones
+347,"After using this Bluetooth speaker for a while, I found that it has both good and average features. Also, the features are useful but limited.",neutral,1,Bluetooth speaker
+348,"My experience with the smartphone is that it has both good and average features. In particular, the delivery arrived on time.",neutral,1,smartphone
+349,"My experience with the laptop is that it is easy to use. In particular, the features are useful.",positive,2,laptop
+350,"After using this Bluetooth speaker for a while, I found that it I would not recommend it. Also, the advertised features do not work.",negative,0,Bluetooth speaker
+351,"For a laptop, it has caused me several problems. However, the controls frequently stop responding.",negative,0,laptop
+352,"My experience with the laptop is that it I would not recommend it. In particular, the setup was confusing.",negative,0,laptop
+353,I bought the wireless headphones recently. It feels poorly made; the delivery was late.,negative,0,wireless headphones
+354,"The Bluetooth speaker stopped working sooner than expected, and the controls frequently stop responding.",negative,0,Bluetooth speaker
+355,"For a smartphone, it meets my basic expectations. However, the sound quality is decent.",neutral,1,smartphone
+356,The wireless headphones is not worth the money. One thing I noticed is that the packaging arrived damaged.,negative,0,wireless headphones
+357,"The Bluetooth speaker does not work properly, and the advertised features do not work.",negative,0,Bluetooth speaker
+358,"For a smartphone, it has been very disappointing. However, the controls frequently stop responding.",negative,0,smartphone
+359,"After using this Bluetooth speaker for a while, I found that it is usable but not outstanding. Also, the features are useful but limited.",neutral,1,Bluetooth speaker
+360,I bought the wireless headphones recently. It has caused me several problems; the delivery was late.,negative,0,wireless headphones
+361,"After using this smartphone for a while, I found that it is acceptable for the price. Also, the performance is adequate.",neutral,1,smartphone
+362,"My experience with the laptop is that it does not work properly. In particular, the design is uncomfortable.",negative,0,laptop
+363,"The smartphone feels poorly made, and the battery drains very quickly.",negative,0,smartphone
+364,"My experience with the smartphone is that it has excellent quality. In particular, the packaging was secure.",positive,2,smartphone
+365,"My experience with the laptop is that it performs really well. In particular, the packaging was secure.",positive,2,laptop
+366,The Bluetooth speaker has excellent quality. One thing I noticed is that the packaging was secure.,positive,2,Bluetooth speaker
+367,"The wireless headphones has poor overall quality, and the performance is slow.",negative,0,wireless headphones
+368,"My experience with the smartphone is that it is easy to use. In particular, the packaging was secure.",positive,2,smartphone
+369,"For a Bluetooth speaker, it is fine for basic use. However, the controls take some getting used to.",neutral,1,Bluetooth speaker
+370,"My experience with the Bluetooth speaker is that it does what it is supposed to do. In particular, the delivery arrived on time.",neutral,1,Bluetooth speaker
+371,I bought the smartphone recently. It has not impressed me much; the packaging was ordinary.,neutral,1,smartphone
+372,The laptop looks great and feels solid. One thing I noticed is that the setup was quick.,positive,2,laptop
+373,The laptop is easy to use. One thing I noticed is that the design is comfortable.,positive,2,laptop
+374,"After using this smartphone for a while, I found that it has not impressed me much. Also, the performance is adequate.",neutral,1,smartphone
+375,The smartphone is neither particularly good nor bad. One thing I noticed is that the setup took some time.,neutral,1,smartphone
+376,"The wireless headphones is acceptable for the price, and the sound quality is decent.",neutral,1,wireless headphones
+377,"My experience with the laptop is that it has excellent quality. In particular, the performance is smooth.",positive,2,laptop
+378,I bought the Bluetooth speaker recently. It feels poorly made; the delivery was late.,negative,0,Bluetooth speaker
+379,"My experience with the smartphone is that it feels well made. In particular, the performance is smooth.",positive,2,smartphone
+380,"For a Bluetooth speaker, it does not work properly. However, the controls frequently stop responding.",negative,0,Bluetooth speaker
+381,"My experience with the wireless headphones is that it works exactly as expected. In particular, the performance is smooth.",positive,2,wireless headphones
+382,"After using this Bluetooth speaker for a while, I found that it performs really well. Also, the controls are intuitive.",positive,2,Bluetooth speaker
+383,"After using this smartphone for a while, I found that it is acceptable for the price. Also, the features are useful but limited.",neutral,1,smartphone
+384,"The wireless headphones has been reliable so far, and the delivery was fast.",positive,2,wireless headphones
+385,"After using this Bluetooth speaker for a while, I found that it does what it is supposed to do. Also, the sound quality is decent.",neutral,1,Bluetooth speaker
+386,"For a smartphone, it works exactly as expected. However, the battery lasts all day.",positive,2,smartphone
+387,"The wireless headphones performs worse than advertised, and the battery drains very quickly.",negative,0,wireless headphones
+388,"For a Bluetooth speaker, it is acceptable for the price. However, the performance is adequate.",neutral,1,Bluetooth speaker
+389,"After using this wireless headphones for a while, I found that it I would not recommend it. Also, the performance is slow.",negative,0,wireless headphones
+390,"My experience with the wireless headphones is that it is surprisingly durable. In particular, the packaging was secure.",positive,2,wireless headphones
+391,"After using this laptop for a while, I found that it does what it is supposed to do. Also, the features are useful but limited.",neutral,1,laptop
+392,"My experience with the Bluetooth speaker is that it has caused me several problems. In particular, the setup was confusing.",negative,0,Bluetooth speaker
+393,"The smartphone has been reliable so far, and the controls are intuitive.",positive,2,smartphone
+394,"For a laptop, it was a frustrating purchase. However, the battery drains very quickly.",negative,0,laptop
+395,"After using this wireless headphones for a while, I found that it is acceptable for the price. Also, the battery life is average.",neutral,1,wireless headphones
+396,"After using this Bluetooth speaker for a while, I found that it has excellent quality. Also, the sound is clear.",positive,2,Bluetooth speaker
+397,The Bluetooth speaker has caused me several problems. One thing I noticed is that customer support was unhelpful.,negative,0,Bluetooth speaker
+398,"For a wireless headphones, it is acceptable for the price. However, the performance is adequate.",neutral,1,wireless headphones
+399,"After using this laptop for a while, I found that it is okay overall. Also, the features are useful but limited.",neutral,1,laptop
+400,"The smartphone is acceptable for the price, and the controls take some getting used to.",neutral,1,smartphone
+401,The wireless headphones is okay overall. One thing I noticed is that the packaging was ordinary.,neutral,1,wireless headphones
+402,"The laptop has made my daily routine much easier, and the sound is clear.",positive,2,laptop
+403,"After using this smartphone for a while, I found that it was a frustrating purchase. Also, the performance is slow.",negative,0,smartphone
+404,"My experience with the laptop is that it has made my daily routine much easier. In particular, the setup was quick.",positive,2,laptop
+405,"After using this wireless headphones for a while, I found that it has both good and average features. Also, the performance is adequate.",neutral,1,wireless headphones
+406,"After using this smartphone for a while, I found that it does not work properly. Also, the battery drains very quickly.",negative,0,smartphone
+407,"For a Bluetooth speaker, it has poor overall quality. However, the battery drains very quickly.",negative,0,Bluetooth speaker
+408,The laptop stopped working sooner than expected. One thing I noticed is that customer support was unhelpful.,negative,0,laptop
+409,"After using this Bluetooth speaker for a while, I found that it works reasonably well. Also, the features are useful but limited.",neutral,1,Bluetooth speaker
+410,I bought the laptop recently. It is acceptable for the price; the support response was acceptable.,neutral,1,laptop
+411,I bought the smartphone recently. It is usable but not outstanding; the design is fairly basic.,neutral,1,smartphone
+412,I bought the wireless headphones recently. It meets my basic expectations; the delivery arrived on time.,neutral,1,wireless headphones
+413,"The Bluetooth speaker works reasonably well, and the battery life is average.",neutral,1,Bluetooth speaker
+414,"My experience with the laptop is that it performs worse than advertised. In particular, the setup was confusing.",negative,0,laptop
+415,I bought the wireless headphones recently. It is okay overall; the support response was acceptable.,neutral,1,wireless headphones
+416,"My experience with the laptop is that it is fine for basic use. In particular, the support response was acceptable.",neutral,1,laptop
+417,"My experience with the Bluetooth speaker is that it stopped working sooner than expected. In particular, customer support was unhelpful.",negative,0,Bluetooth speaker
+418,"For a laptop, it is neither particularly good nor bad. However, the features are useful but limited.",neutral,1,laptop
+419,I bought the smartphone recently. It has not impressed me much; the setup took some time.,neutral,1,smartphone
+420,"For a wireless headphones, it has not impressed me much. However, the features are useful but limited.",neutral,1,wireless headphones
+421,"My experience with the smartphone is that it was a frustrating purchase. In particular, the design is uncomfortable.",negative,0,smartphone
+422,The smartphone stopped working sooner than expected. One thing I noticed is that the packaging arrived damaged.,negative,0,smartphone
+423,"The Bluetooth speaker performs really well, and the battery lasts all day.",positive,2,Bluetooth speaker
+424,"The Bluetooth speaker works reasonably well, and the controls take some getting used to.",neutral,1,Bluetooth speaker
+425,I bought the smartphone recently. It meets my basic expectations; the setup took some time.,neutral,1,smartphone
+426,"After using this wireless headphones for a while, I found that it was a frustrating purchase. Also, the battery drains very quickly.",negative,0,wireless headphones
+427,"After using this Bluetooth speaker for a while, I found that it is neither particularly good nor bad. Also, the features are useful but limited.",neutral,1,Bluetooth speaker
+428,"My experience with the wireless headphones is that it performs really well. In particular, the features are useful.",positive,2,wireless headphones
+429,I bought the Bluetooth speaker recently. It is neither particularly good nor bad; the setup took some time.,neutral,1,Bluetooth speaker
+430,The wireless headphones feels poorly made. One thing I noticed is that customer support was unhelpful.,negative,0,wireless headphones
+431,"My experience with the smartphone is that it is fine for basic use. In particular, the setup took some time.",neutral,1,smartphone
+432,"My experience with the smartphone is that it performs worse than advertised. In particular, the delivery was late.",negative,0,smartphone
+433,"After using this laptop for a while, I found that it is not worth the money. Also, the advertised features do not work.",negative,0,laptop
+434,I bought the Bluetooth speaker recently. It has been very disappointing; the packaging arrived damaged.,negative,0,Bluetooth speaker
+435,The wireless headphones is fine for basic use. One thing I noticed is that the packaging was ordinary.,neutral,1,wireless headphones
+436,"For a Bluetooth speaker, it is not worth the money. However, the controls frequently stop responding.",negative,0,Bluetooth speaker
+437,"For a Bluetooth speaker, it stopped working sooner than expected. However, the sound is distorted.",negative,0,Bluetooth speaker
+438,"My experience with the laptop is that it was a frustrating purchase. In particular, the delivery was late.",negative,0,laptop
+439,The smartphone is easy to use. One thing I noticed is that the features are useful.,positive,2,smartphone
+440,I bought the wireless headphones recently. It I would not recommend it; the packaging arrived damaged.,negative,0,wireless headphones
+441,I bought the wireless headphones recently. It is neither particularly good nor bad; the packaging was ordinary.,neutral,1,wireless headphones
+442,"After using this laptop for a while, I found that it has been reliable so far. Also, the delivery was fast.",positive,2,laptop
+443,"For a smartphone, it has excellent quality. However, the controls are intuitive.",positive,2,smartphone
+444,I bought the Bluetooth speaker recently. It has not impressed me much; the delivery arrived on time.,neutral,1,Bluetooth speaker
+445,"The smartphone is easy to use, and the sound is clear.",positive,2,smartphone
+446,"My experience with the laptop is that it does what it is supposed to do. In particular, the design is fairly basic.",neutral,1,laptop
+447,I bought the wireless headphones recently. It works exactly as expected; the setup was quick.,positive,2,wireless headphones
+448,"My experience with the Bluetooth speaker is that it has not impressed me much. In particular, the packaging was ordinary.",neutral,1,Bluetooth speaker
+449,"The laptop meets my basic expectations, and the features are useful but limited.",neutral,1,laptop
+450,The wireless headphones performs worse than advertised. One thing I noticed is that the delivery was late.,negative,0,wireless headphones
+451,"My experience with the Bluetooth speaker is that it is usable but not outstanding. In particular, the design is fairly basic.",neutral,1,Bluetooth speaker
+452,I bought the Bluetooth speaker recently. It is fine for basic use; the design is fairly basic.,neutral,1,Bluetooth speaker
+453,The smartphone is neither particularly good nor bad. One thing I noticed is that the packaging was ordinary.,neutral,1,smartphone
+454,I bought the laptop recently. It looks great and feels solid; the performance is smooth.,positive,2,laptop
+455,"For a laptop, it has made my daily routine much easier. However, the customer support was helpful.",positive,2,laptop
+456,"After using this Bluetooth speaker for a while, I found that it has been very disappointing. Also, the performance is slow.",negative,0,Bluetooth speaker
+457,"After using this laptop for a while, I found that it has caused me several problems. Also, the sound is distorted.",negative,0,laptop
+458,"After using this smartphone for a while, I found that it is surprisingly durable. Also, the customer support was helpful.",positive,2,smartphone
+459,I bought the laptop recently. It feels well made; the performance is smooth.,positive,2,laptop
+460,"The Bluetooth speaker does not work properly, and the performance is slow.",negative,0,Bluetooth speaker
+461,"My experience with the smartphone is that it is acceptable for the price. In particular, the support response was acceptable.",neutral,1,smartphone
+462,The laptop feels poorly made. One thing I noticed is that the setup was confusing.,negative,0,laptop
+463,"For a Bluetooth speaker, it was a frustrating purchase. However, the advertised features do not work.",negative,0,Bluetooth speaker
+464,I bought the laptop recently. It stopped working sooner than expected; the delivery was late.,negative,0,laptop
+465,"My experience with the wireless headphones is that it works exactly as expected. In particular, the features are useful.",positive,2,wireless headphones
+466,"For a wireless headphones, it meets my basic expectations. However, the performance is adequate.",neutral,1,wireless headphones
+467,"The Bluetooth speaker does what it is supposed to do, and the performance is adequate.",neutral,1,Bluetooth speaker
+468,The Bluetooth speaker has been very disappointing. One thing I noticed is that the delivery was late.,negative,0,Bluetooth speaker
+469,"For a Bluetooth speaker, it has excellent quality. However, the battery lasts all day.",positive,2,Bluetooth speaker
+470,I bought the laptop recently. It looks great and feels solid; the features are useful.,positive,2,laptop
+471,The Bluetooth speaker is okay overall. One thing I noticed is that the setup took some time.,neutral,1,Bluetooth speaker
+472,"After using this smartphone for a while, I found that it has excellent quality. Also, the delivery was fast.",positive,2,smartphone
+473,"After using this Bluetooth speaker for a while, I found that it has been reliable so far. Also, the customer support was helpful.",positive,2,Bluetooth speaker
+474,"My experience with the laptop is that it is not worth the money. In particular, customer support was unhelpful.",negative,0,laptop
+475,The Bluetooth speaker has not impressed me much. One thing I noticed is that the support response was acceptable.,neutral,1,Bluetooth speaker
+476,"After using this smartphone for a while, I found that it is usable but not outstanding. Also, the sound quality is decent.",neutral,1,smartphone
+477,The wireless headphones has poor overall quality. One thing I noticed is that the setup was confusing.,negative,0,wireless headphones
+478,"For a wireless headphones, it I would not recommend it. However, the sound is distorted.",negative,0,wireless headphones
+479,I bought the smartphone recently. It is fine for basic use; the delivery arrived on time.,neutral,1,smartphone
+480,"My experience with the wireless headphones is that it stopped working sooner than expected. In particular, the design is uncomfortable.",negative,0,wireless headphones
+481,I bought the wireless headphones recently. It performs really well; the setup was quick.,positive,2,wireless headphones
+482,"For a smartphone, it is okay overall. However, the features are useful but limited.",neutral,1,smartphone
+483,"The wireless headphones is fine for basic use, and the features are useful but limited.",neutral,1,wireless headphones
+484,"My experience with the wireless headphones is that it is fine for basic use. In particular, the delivery arrived on time.",neutral,1,wireless headphones
+485,I bought the laptop recently. It has caused me several problems; customer support was unhelpful.,negative,0,laptop
+486,"The laptop has been very disappointing, and the sound is distorted.",negative,0,laptop
+487,"For a smartphone, it is okay overall. However, the performance is adequate.",neutral,1,smartphone
+488,The wireless headphones feels well made. One thing I noticed is that the performance is smooth.,positive,2,wireless headphones
+489,The smartphone meets my basic expectations. One thing I noticed is that the delivery arrived on time.,neutral,1,smartphone
+490,The Bluetooth speaker performs worse than advertised. One thing I noticed is that the delivery was late.,negative,0,Bluetooth speaker
+491,The wireless headphones has excellent quality. One thing I noticed is that the setup was quick.,positive,2,wireless headphones
+492,The wireless headphones has poor overall quality. One thing I noticed is that the packaging arrived damaged.,negative,0,wireless headphones
+493,"The wireless headphones was a frustrating purchase, and the sound is distorted.",negative,0,wireless headphones
+494,"The smartphone has both good and average features, and the features are useful but limited.",neutral,1,smartphone
+495,"For a wireless headphones, it was a frustrating purchase. However, the performance is slow.",negative,0,wireless headphones
+496,"My experience with the wireless headphones is that it has not impressed me much. In particular, the packaging was ordinary.",neutral,1,wireless headphones
+497,I bought the Bluetooth speaker recently. It has been reliable so far; the packaging was secure.,positive,2,Bluetooth speaker
+498,"For a laptop, it does what it is supposed to do. However, the sound quality is decent.",neutral,1,laptop
+499,I bought the Bluetooth speaker recently. It looks great and feels solid; the design is comfortable.,positive,2,Bluetooth speaker
+500,The laptop is worth the money. One thing I noticed is that the design is comfortable.,positive,2,laptop
+501,"The Bluetooth speaker has both good and average features, and the controls take some getting used to.",neutral,1,Bluetooth speaker
+502,"The wireless headphones has both good and average features, and the controls take some getting used to.",neutral,1,wireless headphones
+503,"For a smartphone, it has not impressed me much. However, the sound quality is decent.",neutral,1,smartphone
+504,"My experience with the laptop is that it is worth the money. In particular, the features are useful.",positive,2,laptop
+505,"My experience with the laptop is that it performs really well. In particular, the setup was quick.",positive,2,laptop
+506,"After using this Bluetooth speaker for a while, I found that it has caused me several problems. Also, the battery drains very quickly.",negative,0,Bluetooth speaker
+507,"For a smartphone, it I would not recommend it. However, the controls frequently stop responding.",negative,0,smartphone
+508,"For a wireless headphones, it is neither particularly good nor bad. However, the sound quality is decent.",neutral,1,wireless headphones
+509,"After using this smartphone for a while, I found that it meets my basic expectations. Also, the features are useful but limited.",neutral,1,smartphone
+510,The wireless headphones has been very disappointing. One thing I noticed is that the delivery was late.,negative,0,wireless headphones
+511,"For a Bluetooth speaker, it does not work properly. However, the battery drains very quickly.",negative,0,Bluetooth speaker
+512,"My experience with the laptop is that it is neither particularly good nor bad. In particular, the setup took some time.",neutral,1,laptop
+513,"For a wireless headphones, it works reasonably well. However, the sound quality is decent.",neutral,1,wireless headphones
+514,The Bluetooth speaker has made my daily routine much easier. One thing I noticed is that the design is comfortable.,positive,2,Bluetooth speaker
+515,"My experience with the laptop is that it is easy to use. In particular, the performance is smooth.",positive,2,laptop
+516,The laptop is surprisingly durable. One thing I noticed is that the packaging was secure.,positive,2,laptop
+517,"After using this smartphone for a while, I found that it has been very disappointing. Also, the sound is distorted.",negative,0,smartphone
+518,"For a smartphone, it has both good and average features. However, the controls take some getting used to.",neutral,1,smartphone
+519,I bought the laptop recently. It works reasonably well; the delivery arrived on time.,neutral,1,laptop
+520,"After using this wireless headphones for a while, I found that it performs worse than advertised. Also, the performance is slow.",negative,0,wireless headphones
+521,The laptop was a frustrating purchase. One thing I noticed is that the setup was confusing.,negative,0,laptop
+522,"My experience with the laptop is that it is surprisingly durable. In particular, the design is comfortable.",positive,2,laptop
+523,"For a laptop, it stopped working sooner than expected. However, the advertised features do not work.",negative,0,laptop
+524,I bought the laptop recently. It feels poorly made; the design is uncomfortable.,negative,0,laptop
+525,I bought the smartphone recently. It is not worth the money; the delivery was late.,negative,0,smartphone
+526,"The Bluetooth speaker has excellent quality, and the customer support was helpful.",positive,2,Bluetooth speaker
+527,I bought the Bluetooth speaker recently. It has poor overall quality; the design is uncomfortable.,negative,0,Bluetooth speaker
+528,"For a smartphone, it does not work properly. However, the advertised features do not work.",negative,0,smartphone
+529,"After using this wireless headphones for a while, I found that it works exactly as expected. Also, the controls are intuitive.",positive,2,wireless headphones
+530,"For a laptop, it has caused me several problems. However, the battery drains very quickly.",negative,0,laptop
+531,"After using this Bluetooth speaker for a while, I found that it is surprisingly durable. Also, the delivery was fast.",positive,2,Bluetooth speaker
+532,"My experience with the wireless headphones is that it has been very disappointing. In particular, customer support was unhelpful.",negative,0,wireless headphones
+533,I bought the wireless headphones recently. It is fine for basic use; the support response was acceptable.,neutral,1,wireless headphones
+534,I bought the wireless headphones recently. It is worth the money; the performance is smooth.,positive,2,wireless headphones
+535,The Bluetooth speaker was a frustrating purchase. One thing I noticed is that customer support was unhelpful.,negative,0,Bluetooth speaker
+536,"My experience with the smartphone is that it performs really well. In particular, the design is comfortable.",positive,2,smartphone
+537,"The wireless headphones is neither particularly good nor bad, and the battery life is average.",neutral,1,wireless headphones
+538,"For a Bluetooth speaker, it is easy to use. However, the delivery was fast.",positive,2,Bluetooth speaker
+539,"The smartphone is not worth the money, and the sound is distorted.",negative,0,smartphone
+540,The smartphone works reasonably well. One thing I noticed is that the setup took some time.,neutral,1,smartphone
+541,I bought the Bluetooth speaker recently. It works exactly as expected; the packaging was secure.,positive,2,Bluetooth speaker
+542,I bought the smartphone recently. It has both good and average features; the support response was acceptable.,neutral,1,smartphone
+543,"My experience with the smartphone is that it has poor overall quality. In particular, the packaging arrived damaged.",negative,0,smartphone
+544,"For a Bluetooth speaker, it is surprisingly durable. However, the customer support was helpful.",positive,2,Bluetooth speaker
+545,"For a laptop, it is surprisingly durable. However, the battery lasts all day.",positive,2,laptop
+546,"My experience with the smartphone is that it meets my basic expectations. In particular, the design is fairly basic.",neutral,1,smartphone
+547,"For a Bluetooth speaker, it has made my daily routine much easier. However, the sound is clear.",positive,2,Bluetooth speaker
+548,I bought the wireless headphones recently. It has been very disappointing; the packaging arrived damaged.,negative,0,wireless headphones
+549,The smartphone is okay overall. One thing I noticed is that the design is fairly basic.,neutral,1,smartphone
+550,"The wireless headphones is easy to use, and the controls are intuitive.",positive,2,wireless headphones
+551,"My experience with the Bluetooth speaker is that it has caused me several problems. In particular, the packaging arrived damaged.",negative,0,Bluetooth speaker
+552,The Bluetooth speaker feels poorly made. One thing I noticed is that customer support was unhelpful.,negative,0,Bluetooth speaker
+553,"For a Bluetooth speaker, it works reasonably well. However, the sound quality is decent.",neutral,1,Bluetooth speaker
+554,The wireless headphones feels well made. One thing I noticed is that the features are useful.,positive,2,wireless headphones
+555,"The laptop has caused me several problems, and the advertised features do not work.",negative,0,laptop
+556,"The wireless headphones has made my daily routine much easier, and the battery lasts all day.",positive,2,wireless headphones
+557,"My experience with the wireless headphones is that it has been reliable so far. In particular, the performance is smooth.",positive,2,wireless headphones
+558,"My experience with the Bluetooth speaker is that it looks great and feels solid. In particular, the packaging was secure.",positive,2,Bluetooth speaker
+559,"After using this smartphone for a while, I found that it works exactly as expected. Also, the sound is clear.",positive,2,smartphone
+560,The smartphone is acceptable for the price. One thing I noticed is that the delivery arrived on time.,neutral,1,smartphone
+561,I bought the wireless headphones recently. It has excellent quality; the performance is smooth.,positive,2,wireless headphones
+562,I bought the Bluetooth speaker recently. It has both good and average features; the setup took some time.,neutral,1,Bluetooth speaker
+563,"My experience with the laptop is that it has been reliable so far. In particular, the setup was quick.",positive,2,laptop
+564,"For a Bluetooth speaker, it is easy to use. However, the battery lasts all day.",positive,2,Bluetooth speaker
+565,"For a wireless headphones, it is fine for basic use. However, the battery life is average.",neutral,1,wireless headphones
+566,The smartphone has both good and average features. One thing I noticed is that the setup took some time.,neutral,1,smartphone
+567,"My experience with the smartphone is that it is surprisingly durable. In particular, the features are useful.",positive,2,smartphone
+568,"The laptop feels poorly made, and the advertised features do not work.",negative,0,laptop
+569,"The laptop is easy to use, and the battery lasts all day.",positive,2,laptop
+570,"After using this laptop for a while, I found that it does not work properly. Also, the performance is slow.",negative,0,laptop
+571,I bought the wireless headphones recently. It has poor overall quality; customer support was unhelpful.,negative,0,wireless headphones
+572,"For a smartphone, it is not worth the money. However, the advertised features do not work.",negative,0,smartphone
+573,The smartphone is usable but not outstanding. One thing I noticed is that the setup took some time.,neutral,1,smartphone
+574,I bought the Bluetooth speaker recently. It works reasonably well; the packaging was ordinary.,neutral,1,Bluetooth speaker
+575,"My experience with the smartphone is that it meets my basic expectations. In particular, the support response was acceptable.",neutral,1,smartphone
+576,I bought the smartphone recently. It stopped working sooner than expected; the design is uncomfortable.,negative,0,smartphone
+577,"My experience with the Bluetooth speaker is that it meets my basic expectations. In particular, the setup took some time.",neutral,1,Bluetooth speaker
+578,"After using this wireless headphones for a while, I found that it works reasonably well. Also, the features are useful but limited.",neutral,1,wireless headphones
+579,I bought the smartphone recently. It performs really well; the features are useful.,positive,2,smartphone
+580,The smartphone works reasonably well. One thing I noticed is that the packaging was ordinary.,neutral,1,smartphone
+581,"For a wireless headphones, it is worth the money. However, the delivery was fast.",positive,2,wireless headphones
+582,"After using this smartphone for a while, I found that it works reasonably well. Also, the sound quality is decent.",neutral,1,smartphone
+583,"The Bluetooth speaker does what it is supposed to do, and the features are useful but limited.",neutral,1,Bluetooth speaker
+584,The Bluetooth speaker is not worth the money. One thing I noticed is that the packaging arrived damaged.,negative,0,Bluetooth speaker
+585,"After using this Bluetooth speaker for a while, I found that it was a frustrating purchase. Also, the controls frequently stop responding.",negative,0,Bluetooth speaker
+586,"The wireless headphones has been very disappointing, and the battery drains very quickly.",negative,0,wireless headphones
+587,"The Bluetooth speaker performs worse than advertised, and the battery drains very quickly.",negative,0,Bluetooth speaker
+588,"My experience with the Bluetooth speaker is that it has been reliable so far. In particular, the performance is smooth.",positive,2,Bluetooth speaker
+589,"My experience with the wireless headphones is that it is okay overall. In particular, the delivery arrived on time.",neutral,1,wireless headphones
+590,The Bluetooth speaker is okay overall. One thing I noticed is that the packaging was ordinary.,neutral,1,Bluetooth speaker
+591,The Bluetooth speaker has not impressed me much. One thing I noticed is that the design is fairly basic.,neutral,1,Bluetooth speaker
+592,"For a smartphone, it has poor overall quality. However, the performance is slow.",negative,0,smartphone
+593,"After using this wireless headphones for a while, I found that it has not impressed me much. Also, the battery life is average.",neutral,1,wireless headphones
+594,The smartphone feels poorly made. One thing I noticed is that the delivery was late.,negative,0,smartphone
+595,"For a smartphone, it has been reliable so far. However, the battery lasts all day.",positive,2,smartphone
+596,"For a smartphone, it has both good and average features. However, the battery life is average.",neutral,1,smartphone
+597,"The wireless headphones I would not recommend it, and the battery drains very quickly.",negative,0,wireless headphones
+598,I bought the Bluetooth speaker recently. It performs really well; the setup was quick.,positive,2,Bluetooth speaker
+599,I bought the smartphone recently. It was a frustrating purchase; the setup was confusing.,negative,0,smartphone
+600,"For a laptop, it feels well made. However, the delivery was fast.",positive,2,laptop
+601,I bought the smartphone recently. It has made my daily routine much easier; the features are useful.,positive,2,smartphone
+602,The laptop has caused me several problems. One thing I noticed is that the setup was confusing.,negative,0,laptop
+603,"My experience with the wireless headphones is that it performs worse than advertised. In particular, customer support was unhelpful.",negative,0,wireless headphones
+604,The smartphone stopped working sooner than expected. One thing I noticed is that the setup was confusing.,negative,0,smartphone
+605,"The Bluetooth speaker has been very disappointing, and the battery drains very quickly.",negative,0,Bluetooth speaker
+606,"After using this Bluetooth speaker for a while, I found that it has been reliable so far. Also, the controls are intuitive.",positive,2,Bluetooth speaker
+607,"After using this Bluetooth speaker for a while, I found that it feels poorly made. Also, the controls frequently stop responding.",negative,0,Bluetooth speaker
+608,"My experience with the laptop is that it has excellent quality. In particular, the features are useful.",positive,2,laptop
+609,"My experience with the wireless headphones is that it is usable but not outstanding. In particular, the support response was acceptable.",neutral,1,wireless headphones
+610,I bought the laptop recently. It is neither particularly good nor bad; the delivery arrived on time.,neutral,1,laptop
+611,"For a smartphone, it has excellent quality. However, the customer support was helpful.",positive,2,smartphone
+612,The wireless headphones is usable but not outstanding. One thing I noticed is that the delivery arrived on time.,neutral,1,wireless headphones
+613,"After using this Bluetooth speaker for a while, I found that it stopped working sooner than expected. Also, the advertised features do not work.",negative,0,Bluetooth speaker
+614,I bought the smartphone recently. It performs really well; the performance is smooth.,positive,2,smartphone
+615,"After using this smartphone for a while, I found that it performs worse than advertised. Also, the sound is distorted.",negative,0,smartphone
+616,"For a wireless headphones, it feels poorly made. However, the advertised features do not work.",negative,0,wireless headphones
+617,"After using this smartphone for a while, I found that it does what it is supposed to do. Also, the controls take some getting used to.",neutral,1,smartphone
+618,I bought the smartphone recently. It I would not recommend it; the design is uncomfortable.,negative,0,smartphone
+619,"My experience with the Bluetooth speaker is that it works exactly as expected. In particular, the performance is smooth.",positive,2,Bluetooth speaker
+620,I bought the smartphone recently. It performs worse than advertised; customer support was unhelpful.,negative,0,smartphone
+621,"The laptop is surprisingly durable, and the customer support was helpful.",positive,2,laptop
+622,The smartphone has poor overall quality. One thing I noticed is that the design is uncomfortable.,negative,0,smartphone
+623,"For a smartphone, it does what it is supposed to do. However, the features are useful but limited.",neutral,1,smartphone
+624,"The smartphone performs really well, and the customer support was helpful.",positive,2,smartphone
+625,I bought the Bluetooth speaker recently. It works reasonably well; the setup took some time.,neutral,1,Bluetooth speaker
+626,I bought the wireless headphones recently. It is usable but not outstanding; the setup took some time.,neutral,1,wireless headphones
+627,I bought the wireless headphones recently. It has poor overall quality; the design is uncomfortable.,negative,0,wireless headphones
+628,"The smartphone looks great and feels solid, and the battery lasts all day.",positive,2,smartphone
+629,I bought the smartphone recently. It meets my basic expectations; the packaging was ordinary.,neutral,1,smartphone
+630,"The laptop stopped working sooner than expected, and the sound is distorted.",negative,0,laptop
+631,"For a laptop, it does not work properly. However, the sound is distorted.",negative,0,laptop
+632,"After using this smartphone for a while, I found that it is easy to use. Also, the delivery was fast.",positive,2,smartphone
+633,"The smartphone stopped working sooner than expected, and the performance is slow.",negative,0,smartphone
+634,I bought the Bluetooth speaker recently. It is surprisingly durable; the design is comfortable.,positive,2,Bluetooth speaker
+635,"After using this Bluetooth speaker for a while, I found that it has both good and average features. Also, the performance is adequate.",neutral,1,Bluetooth speaker
+636,"After using this smartphone for a while, I found that it is easy to use. Also, the battery lasts all day.",positive,2,smartphone
+637,The smartphone was a frustrating purchase. One thing I noticed is that the delivery was late.,negative,0,smartphone
+638,The wireless headphones is not worth the money. One thing I noticed is that the setup was confusing.,negative,0,wireless headphones
+639,"The smartphone has been very disappointing, and the advertised features do not work.",negative,0,smartphone
+640,"The wireless headphones is easy to use, and the customer support was helpful.",positive,2,wireless headphones
+641,"The smartphone is neither particularly good nor bad, and the features are useful but limited.",neutral,1,smartphone
+642,"For a laptop, it has not impressed me much. However, the battery life is average.",neutral,1,laptop
+643,"After using this laptop for a while, I found that it works exactly as expected. Also, the battery lasts all day.",positive,2,laptop
+644,The Bluetooth speaker performs really well. One thing I noticed is that the design is comfortable.,positive,2,Bluetooth speaker
+645,The wireless headphones meets my basic expectations. One thing I noticed is that the design is fairly basic.,neutral,1,wireless headphones
+646,"After using this wireless headphones for a while, I found that it is neither particularly good nor bad. Also, the features are useful but limited.",neutral,1,wireless headphones
+647,"The wireless headphones feels poorly made, and the sound is distorted.",negative,0,wireless headphones
+648,"After using this laptop for a while, I found that it is neither particularly good nor bad. Also, the battery life is average.",neutral,1,laptop
+649,"My experience with the laptop is that it is okay overall. In particular, the support response was acceptable.",neutral,1,laptop
+650,"For a Bluetooth speaker, it has not impressed me much. However, the performance is adequate.",neutral,1,Bluetooth speaker
+651,I bought the smartphone recently. It has made my daily routine much easier; the performance is smooth.,positive,2,smartphone
+652,"The Bluetooth speaker performs worse than advertised, and the controls frequently stop responding.",negative,0,Bluetooth speaker
+653,"My experience with the wireless headphones is that it has been reliable so far. In particular, the features are useful.",positive,2,wireless headphones
+654,"The laptop is surprisingly durable, and the controls are intuitive.",positive,2,laptop
+655,The Bluetooth speaker was a frustrating purchase. One thing I noticed is that the design is uncomfortable.,negative,0,Bluetooth speaker
+656,"The wireless headphones has not impressed me much, and the sound quality is decent.",neutral,1,wireless headphones
+657,"The laptop performs worse than advertised, and the sound is distorted.",negative,0,laptop
+658,"The Bluetooth speaker is neither particularly good nor bad, and the battery life is average.",neutral,1,Bluetooth speaker
+659,The smartphone is worth the money. One thing I noticed is that the features are useful.,positive,2,smartphone
+660,"After using this wireless headphones for a while, I found that it is fine for basic use. Also, the sound quality is decent.",neutral,1,wireless headphones
+661,The Bluetooth speaker I would not recommend it. One thing I noticed is that the delivery was late.,negative,0,Bluetooth speaker
+662,The Bluetooth speaker is fine for basic use. One thing I noticed is that the setup took some time.,neutral,1,Bluetooth speaker
+663,"After using this smartphone for a while, I found that it has poor overall quality. Also, the controls frequently stop responding.",negative,0,smartphone
+664,"The wireless headphones does not work properly, and the advertised features do not work.",negative,0,wireless headphones
+665,"For a smartphone, it is easy to use. However, the customer support was helpful.",positive,2,smartphone
+666,"After using this wireless headphones for a while, I found that it has excellent quality. Also, the sound is clear.",positive,2,wireless headphones
+667,"My experience with the smartphone is that it is usable but not outstanding. In particular, the delivery arrived on time.",neutral,1,smartphone
+668,I bought the wireless headphones recently. It performs worse than advertised; the setup was confusing.,negative,0,wireless headphones
+669,"After using this laptop for a while, I found that it has poor overall quality. Also, the performance is slow.",negative,0,laptop
+670,I bought the Bluetooth speaker recently. It feels well made; the design is comfortable.,positive,2,Bluetooth speaker
+671,"After using this laptop for a while, I found that it has poor overall quality. Also, the advertised features do not work.",negative,0,laptop
+672,The wireless headphones is easy to use. One thing I noticed is that the setup was quick.,positive,2,wireless headphones
+673,"After using this Bluetooth speaker for a while, I found that it performs worse than advertised. Also, the advertised features do not work.",negative,0,Bluetooth speaker
+674,"After using this wireless headphones for a while, I found that it looks great and feels solid. Also, the delivery was fast.",positive,2,wireless headphones
+675,"For a laptop, it has excellent quality. However, the sound is clear.",positive,2,laptop
+676,The wireless headphones is surprisingly durable. One thing I noticed is that the features are useful.,positive,2,wireless headphones
+677,"After using this Bluetooth speaker for a while, I found that it is acceptable for the price. Also, the battery life is average.",neutral,1,Bluetooth speaker
+678,I bought the wireless headphones recently. It feels well made; the design is comfortable.,positive,2,wireless headphones
+679,"My experience with the smartphone is that it is fine for basic use. In particular, the packaging was ordinary.",neutral,1,smartphone
+680,I bought the wireless headphones recently. It is worth the money; the features are useful.,positive,2,wireless headphones
+681,"My experience with the wireless headphones is that it has made my daily routine much easier. In particular, the features are useful.",positive,2,wireless headphones
+682,"After using this wireless headphones for a while, I found that it has not impressed me much. Also, the controls take some getting used to.",neutral,1,wireless headphones
+683,"My experience with the Bluetooth speaker is that it I would not recommend it. In particular, the design is uncomfortable.",negative,0,Bluetooth speaker
+684,The laptop is okay overall. One thing I noticed is that the delivery arrived on time.,neutral,1,laptop
+685,"My experience with the smartphone is that it has excellent quality. In particular, the setup was quick.",positive,2,smartphone
+686,"After using this smartphone for a while, I found that it performs really well. Also, the sound is clear.",positive,2,smartphone
+687,"My experience with the Bluetooth speaker is that it has poor overall quality. In particular, the delivery was late.",negative,0,Bluetooth speaker
+688,"The wireless headphones does what it is supposed to do, and the performance is adequate.",neutral,1,wireless headphones
+689,"After using this wireless headphones for a while, I found that it has poor overall quality. Also, the sound is distorted.",negative,0,wireless headphones
+690,"My experience with the Bluetooth speaker is that it feels well made. In particular, the setup was quick.",positive,2,Bluetooth speaker
+691,"After using this wireless headphones for a while, I found that it performs really well. Also, the controls are intuitive.",positive,2,wireless headphones
+692,"For a smartphone, it works reasonably well. However, the battery life is average.",neutral,1,smartphone
+693,"My experience with the smartphone is that it is easy to use. In particular, the setup was quick.",positive,2,smartphone
+694,"The laptop does what it is supposed to do, and the controls take some getting used to.",neutral,1,laptop
+695,"The smartphone does not work properly, and the sound is distorted.",negative,0,smartphone
+696,The wireless headphones does what it is supposed to do. One thing I noticed is that the packaging was ordinary.,neutral,1,wireless headphones
+697,"My experience with the laptop is that it works reasonably well. In particular, the setup took some time.",neutral,1,laptop
+698,"The laptop works reasonably well, and the sound quality is decent.",neutral,1,laptop
+699,The wireless headphones was a frustrating purchase. One thing I noticed is that customer support was unhelpful.,negative,0,wireless headphones
+700,"The Bluetooth speaker is easy to use, and the customer support was helpful.",positive,2,Bluetooth speaker
+701,"After using this wireless headphones for a while, I found that it is usable but not outstanding. Also, the features are useful but limited.",neutral,1,wireless headphones
+702,"My experience with the wireless headphones is that it is worth the money. In particular, the design is comfortable.",positive,2,wireless headphones
+703,"The smartphone feels well made, and the delivery was fast.",positive,2,smartphone
+704,"The smartphone has made my daily routine much easier, and the customer support was helpful.",positive,2,smartphone
+705,The wireless headphones does not work properly. One thing I noticed is that the setup was confusing.,negative,0,wireless headphones
+706,"The Bluetooth speaker I would not recommend it, and the controls frequently stop responding.",negative,0,Bluetooth speaker
+707,"The Bluetooth speaker has not impressed me much, and the sound quality is decent.",neutral,1,Bluetooth speaker
+708,The smartphone has not impressed me much. One thing I noticed is that the delivery arrived on time.,neutral,1,smartphone
+709,"The wireless headphones is not worth the money, and the performance is slow.",negative,0,wireless headphones
+710,The smartphone performs worse than advertised. One thing I noticed is that the packaging arrived damaged.,negative,0,smartphone
+711,"For a wireless headphones, it does what it is supposed to do. However, the controls take some getting used to.",neutral,1,wireless headphones
+712,"After using this smartphone for a while, I found that it is okay overall. Also, the controls take some getting used to.",neutral,1,smartphone
+713,"My experience with the laptop is that it performs worse than advertised. In particular, the packaging arrived damaged.",negative,0,laptop
+714,I bought the wireless headphones recently. It works exactly as expected; the packaging was secure.,positive,2,wireless headphones
+715,"After using this wireless headphones for a while, I found that it is acceptable for the price. Also, the controls take some getting used to.",neutral,1,wireless headphones
+716,"After using this laptop for a while, I found that it is usable but not outstanding. Also, the battery life is average.",neutral,1,laptop
+717,"The smartphone is fine for basic use, and the sound quality is decent.",neutral,1,smartphone
+718,"For a Bluetooth speaker, it feels well made. However, the controls are intuitive.",positive,2,Bluetooth speaker
+719,"For a laptop, it is okay overall. However, the sound quality is decent.",neutral,1,laptop
+720,I bought the laptop recently. It meets my basic expectations; the support response was acceptable.,neutral,1,laptop
+721,"After using this laptop for a while, I found that it is surprisingly durable. Also, the sound is clear.",positive,2,laptop
+722,"For a Bluetooth speaker, it is worth the money. However, the delivery was fast.",positive,2,Bluetooth speaker
+723,"For a laptop, it has been reliable so far. However, the controls are intuitive.",positive,2,laptop
+724,"The laptop has been reliable so far, and the sound is clear.",positive,2,laptop
+725,The laptop has caused me several problems. One thing I noticed is that the packaging arrived damaged.,negative,0,laptop
+726,The Bluetooth speaker stopped working sooner than expected. One thing I noticed is that the delivery was late.,negative,0,Bluetooth speaker
+727,"My experience with the wireless headphones is that it does not work properly. In particular, the delivery was late.",negative,0,wireless headphones
+728,The smartphone works exactly as expected. One thing I noticed is that the setup was quick.,positive,2,smartphone
+729,"The Bluetooth speaker feels poorly made, and the sound is distorted.",negative,0,Bluetooth speaker
+730,"My experience with the laptop is that it works reasonably well. In particular, the packaging was ordinary.",neutral,1,laptop
+731,I bought the laptop recently. It is surprisingly durable; the performance is smooth.,positive,2,laptop
+732,"The Bluetooth speaker is usable but not outstanding, and the battery life is average.",neutral,1,Bluetooth speaker
+733,"The laptop feels poorly made, and the performance is slow.",negative,0,laptop
+734,The smartphone has poor overall quality. One thing I noticed is that customer support was unhelpful.,negative,0,smartphone
+735,"My experience with the wireless headphones is that it I would not recommend it. In particular, customer support was unhelpful.",negative,0,wireless headphones
+736,I bought the smartphone recently. It is acceptable for the price; the setup took some time.,neutral,1,smartphone
+737,"For a wireless headphones, it feels poorly made. However, the performance is slow.",negative,0,wireless headphones
+738,"After using this Bluetooth speaker for a while, I found that it has caused me several problems. Also, the controls frequently stop responding.",negative,0,Bluetooth speaker
+739,"My experience with the Bluetooth speaker is that it has both good and average features. In particular, the design is fairly basic.",neutral,1,Bluetooth speaker
+740,The laptop has made my daily routine much easier. One thing I noticed is that the performance is smooth.,positive,2,laptop
+741,The Bluetooth speaker has excellent quality. One thing I noticed is that the setup was quick.,positive,2,Bluetooth speaker
+742,I bought the laptop recently. It does what it is supposed to do; the setup took some time.,neutral,1,laptop
+743,The laptop works exactly as expected. One thing I noticed is that the features are useful.,positive,2,laptop
+744,"For a Bluetooth speaker, it is not worth the money. However, the battery drains very quickly.",negative,0,Bluetooth speaker
+745,I bought the wireless headphones recently. It has both good and average features; the setup took some time.,neutral,1,wireless headphones
+746,The smartphone performs really well. One thing I noticed is that the setup was quick.,positive,2,smartphone
+747,I bought the laptop recently. It does not work properly; the packaging arrived damaged.,negative,0,laptop
+748,The laptop has been very disappointing. One thing I noticed is that the design is uncomfortable.,negative,0,laptop
+749,"My experience with the smartphone is that it works exactly as expected. In particular, the design is comfortable.",positive,2,smartphone
+750,"After using this smartphone for a while, I found that it feels well made. Also, the controls are intuitive.",positive,2,smartphone
+751,"My experience with the wireless headphones is that it I would not recommend it. In particular, the design is uncomfortable.",negative,0,wireless headphones
+752,"After using this smartphone for a while, I found that it has excellent quality. Also, the battery lasts all day.",positive,2,smartphone
+753,"After using this wireless headphones for a while, I found that it performs worse than advertised. Also, the advertised features do not work.",negative,0,wireless headphones
+754,"For a wireless headphones, it has made my daily routine much easier. However, the sound is clear.",positive,2,wireless headphones
+755,"After using this laptop for a while, I found that it was a frustrating purchase. Also, the sound is distorted.",negative,0,laptop
+756,"After using this laptop for a while, I found that it is usable but not outstanding. Also, the controls take some getting used to.",neutral,1,laptop
+757,I bought the wireless headphones recently. It was a frustrating purchase; the delivery was late.,negative,0,wireless headphones
+758,"For a wireless headphones, it has both good and average features. However, the sound quality is decent.",neutral,1,wireless headphones
+759,"The Bluetooth speaker is usable but not outstanding, and the controls take some getting used to.",neutral,1,Bluetooth speaker
+760,"My experience with the smartphone is that it has caused me several problems. In particular, the design is uncomfortable.",negative,0,smartphone
+761,"My experience with the wireless headphones is that it has poor overall quality. In particular, the delivery was late.",negative,0,wireless headphones
+762,"After using this laptop for a while, I found that it is easy to use. Also, the controls are intuitive.",positive,2,laptop
+763,"The smartphone meets my basic expectations, and the battery life is average.",neutral,1,smartphone
+764,"For a wireless headphones, it is fine for basic use. However, the controls take some getting used to.",neutral,1,wireless headphones
+765,"My experience with the Bluetooth speaker is that it works reasonably well. In particular, the design is fairly basic.",neutral,1,Bluetooth speaker
+766,"After using this smartphone for a while, I found that it was a frustrating purchase. Also, the advertised features do not work.",negative,0,smartphone
+767,I bought the laptop recently. It has poor overall quality; the setup was confusing.,negative,0,laptop
+768,"After using this laptop for a while, I found that it stopped working sooner than expected. Also, the controls frequently stop responding.",negative,0,laptop
+769,"My experience with the wireless headphones is that it meets my basic expectations. In particular, the packaging was ordinary.",neutral,1,wireless headphones
+770,The Bluetooth speaker is surprisingly durable. One thing I noticed is that the features are useful.,positive,2,Bluetooth speaker
+771,"My experience with the smartphone is that it has not impressed me much. In particular, the support response was acceptable.",neutral,1,smartphone
+772,"My experience with the smartphone is that it does not work properly. In particular, the packaging arrived damaged.",negative,0,smartphone
+773,"My experience with the laptop is that it has both good and average features. In particular, the packaging was ordinary.",neutral,1,laptop
+774,"My experience with the Bluetooth speaker is that it feels well made. In particular, the packaging was secure.",positive,2,Bluetooth speaker
+775,"After using this Bluetooth speaker for a while, I found that it has not impressed me much. Also, the battery life is average.",neutral,1,Bluetooth speaker
+776,"For a smartphone, it does what it is supposed to do. However, the performance is adequate.",neutral,1,smartphone
+777,The laptop has both good and average features. One thing I noticed is that the design is fairly basic.,neutral,1,laptop
+778,I bought the Bluetooth speaker recently. It meets my basic expectations; the delivery arrived on time.,neutral,1,Bluetooth speaker
+779,"After using this laptop for a while, I found that it works exactly as expected. Also, the delivery was fast.",positive,2,laptop
+780,"For a wireless headphones, it is surprisingly durable. However, the controls are intuitive.",positive,2,wireless headphones
+781,"The smartphone feels poorly made, and the controls frequently stop responding.",negative,0,smartphone
+782,"After using this smartphone for a while, I found that it does not work properly. Also, the controls frequently stop responding.",negative,0,smartphone
+783,I bought the wireless headphones recently. It is okay overall; the design is fairly basic.,neutral,1,wireless headphones
+784,"For a Bluetooth speaker, it is fine for basic use. However, the battery life is average.",neutral,1,Bluetooth speaker
+785,"The smartphone has made my daily routine much easier, and the controls are intuitive.",positive,2,smartphone
+786,"My experience with the wireless headphones is that it has caused me several problems. In particular, the packaging arrived damaged.",negative,0,wireless headphones
+787,The laptop works reasonably well. One thing I noticed is that the design is fairly basic.,neutral,1,laptop
+788,"After using this Bluetooth speaker for a while, I found that it meets my basic expectations. Also, the controls take some getting used to.",neutral,1,Bluetooth speaker
+789,"After using this smartphone for a while, I found that it is worth the money. Also, the battery lasts all day.",positive,2,smartphone
+790,"For a laptop, it has not impressed me much. However, the controls take some getting used to.",neutral,1,laptop
+791,"The smartphone works exactly as expected, and the controls are intuitive.",positive,2,smartphone
+792,I bought the smartphone recently. It feels well made; the setup was quick.,positive,2,smartphone
+793,"My experience with the smartphone is that it has been very disappointing. In particular, the delivery was late.",negative,0,smartphone
+794,I bought the laptop recently. It has both good and average features; the delivery arrived on time.,neutral,1,laptop
+795,"My experience with the Bluetooth speaker is that it performs worse than advertised. In particular, customer support was unhelpful.",negative,0,Bluetooth speaker
+796,"For a laptop, it performs worse than advertised. However, the advertised features do not work.",negative,0,laptop
+797,"My experience with the laptop is that it has not impressed me much. In particular, the delivery arrived on time.",neutral,1,laptop
+798,"For a wireless headphones, it is not worth the money. However, the controls frequently stop responding.",negative,0,wireless headphones
+799,I bought the Bluetooth speaker recently. It is not worth the money; customer support was unhelpful.,negative,0,Bluetooth speaker
+800,I bought the Bluetooth speaker recently. It is okay overall; the design is fairly basic.,neutral,1,Bluetooth speaker
+801,"My experience with the smartphone is that it I would not recommend it. In particular, the delivery was late.",negative,0,smartphone
+802,"The smartphone has been very disappointing, and the performance is slow.",negative,0,smartphone
+803,"For a wireless headphones, it has been very disappointing. However, the sound is distorted.",negative,0,wireless headphones
+804,"My experience with the laptop is that it does what it is supposed to do. In particular, the support response was acceptable.",neutral,1,laptop
+805,"For a smartphone, it has made my daily routine much easier. However, the battery lasts all day.",positive,2,smartphone
+806,"For a wireless headphones, it has caused me several problems. However, the performance is slow.",negative,0,wireless headphones
+807,The laptop performs worse than advertised. One thing I noticed is that the design is uncomfortable.,negative,0,laptop
+808,"For a laptop, it has made my daily routine much easier. However, the controls are intuitive.",positive,2,laptop
+809,I bought the wireless headphones recently. It is fine for basic use; the design is fairly basic.,neutral,1,wireless headphones
+810,"My experience with the smartphone is that it is worth the money. In particular, the setup was quick.",positive,2,smartphone
+811,"For a Bluetooth speaker, it meets my basic expectations. However, the performance is adequate.",neutral,1,Bluetooth speaker
+812,"For a wireless headphones, it is easy to use. However, the delivery was fast.",positive,2,wireless headphones
+813,"My experience with the laptop is that it is usable but not outstanding. In particular, the setup took some time.",neutral,1,laptop
+814,"For a Bluetooth speaker, it has been very disappointing. However, the sound is distorted.",negative,0,Bluetooth speaker
+815,The Bluetooth speaker is not worth the money. One thing I noticed is that the setup was confusing.,negative,0,Bluetooth speaker
+816,"The wireless headphones performs really well, and the delivery was fast.",positive,2,wireless headphones
+817,I bought the Bluetooth speaker recently. It does not work properly; the design is uncomfortable.,negative,0,Bluetooth speaker
+818,The smartphone is not worth the money. One thing I noticed is that customer support was unhelpful.,negative,0,smartphone
+819,"For a smartphone, it feels poorly made. However, the sound is distorted.",negative,0,smartphone
+820,"For a laptop, it performs really well. However, the controls are intuitive.",positive,2,laptop
+821,"The smartphone is okay overall, and the sound quality is decent.",neutral,1,smartphone
+822,"My experience with the laptop is that it is usable but not outstanding. In particular, the packaging was ordinary.",neutral,1,laptop
+823,"The laptop is neither particularly good nor bad, and the sound quality is decent.",neutral,1,laptop
+824,"After using this wireless headphones for a while, I found that it has caused me several problems. Also, the battery drains very quickly.",negative,0,wireless headphones
+825,"After using this Bluetooth speaker for a while, I found that it is acceptable for the price. Also, the controls take some getting used to.",neutral,1,Bluetooth speaker
+826,"My experience with the Bluetooth speaker is that it is usable but not outstanding. In particular, the support response was acceptable.",neutral,1,Bluetooth speaker
+827,The Bluetooth speaker has caused me several problems. One thing I noticed is that the design is uncomfortable.,negative,0,Bluetooth speaker
+828,"For a Bluetooth speaker, it is surprisingly durable. However, the controls are intuitive.",positive,2,Bluetooth speaker
+829,"For a smartphone, it is not worth the money. However, the performance is slow.",negative,0,smartphone
+830,"For a wireless headphones, it is okay overall. However, the battery life is average.",neutral,1,wireless headphones
+831,I bought the laptop recently. It has not impressed me much; the design is fairly basic.,neutral,1,laptop
+832,"My experience with the Bluetooth speaker is that it I would not recommend it. In particular, customer support was unhelpful.",negative,0,Bluetooth speaker
+833,The Bluetooth speaker is surprisingly durable. One thing I noticed is that the performance is smooth.,positive,2,Bluetooth speaker
+834,The smartphone has been reliable so far. One thing I noticed is that the packaging was secure.,positive,2,smartphone
+835,"After using this Bluetooth speaker for a while, I found that it feels poorly made. Also, the battery drains very quickly.",negative,0,Bluetooth speaker
+836,I bought the wireless headphones recently. It does not work properly; customer support was unhelpful.,negative,0,wireless headphones
+837,"After using this laptop for a while, I found that it meets my basic expectations. Also, the sound quality is decent.",neutral,1,laptop
+838,The wireless headphones stopped working sooner than expected. One thing I noticed is that the delivery was late.,negative,0,wireless headphones
+839,"The wireless headphones feels well made, and the sound is clear.",positive,2,wireless headphones
+840,"My experience with the smartphone is that it works reasonably well. In particular, the delivery arrived on time.",neutral,1,smartphone
+841,"My experience with the wireless headphones is that it feels well made. In particular, the packaging was secure.",positive,2,wireless headphones
+842,"The laptop is worth the money, and the battery lasts all day.",positive,2,laptop
+843,I bought the wireless headphones recently. It works reasonably well; the packaging was ordinary.,neutral,1,wireless headphones
+844,The wireless headphones has excellent quality. One thing I noticed is that the packaging was secure.,positive,2,wireless headphones
+845,The smartphone has both good and average features. One thing I noticed is that the packaging was ordinary.,neutral,1,smartphone
+846,"For a Bluetooth speaker, it has not impressed me much. However, the features are useful but limited.",neutral,1,Bluetooth speaker
+847,"For a laptop, it performs really well. However, the customer support was helpful.",positive,2,laptop
+848,"After using this wireless headphones for a while, I found that it has made my daily routine much easier. Also, the controls are intuitive.",positive,2,wireless headphones
+849,"After using this wireless headphones for a while, I found that it stopped working sooner than expected. Also, the advertised features do not work.",negative,0,wireless headphones
+850,I bought the smartphone recently. It has poor overall quality; the delivery was late.,negative,0,smartphone
+851,The laptop is not worth the money. One thing I noticed is that the delivery was late.,negative,0,laptop
+852,"For a wireless headphones, it has excellent quality. However, the battery lasts all day.",positive,2,wireless headphones
+853,"After using this laptop for a while, I found that it looks great and feels solid. Also, the sound is clear.",positive,2,laptop
+854,I bought the laptop recently. It is worth the money; the packaging was secure.,positive,2,laptop
+855,"The Bluetooth speaker meets my basic expectations, and the sound quality is decent.",neutral,1,Bluetooth speaker
+856,"The Bluetooth speaker looks great and feels solid, and the sound is clear.",positive,2,Bluetooth speaker
+857,The wireless headphones meets my basic expectations. One thing I noticed is that the support response was acceptable.,neutral,1,wireless headphones
+858,"For a smartphone, it has caused me several problems. However, the sound is distorted.",negative,0,smartphone
+859,"For a laptop, it has both good and average features. However, the features are useful but limited.",neutral,1,laptop
+860,"For a laptop, it is neither particularly good nor bad. However, the performance is adequate.",neutral,1,laptop
+861,The wireless headphones is surprisingly durable. One thing I noticed is that the performance is smooth.,positive,2,wireless headphones
+862,The laptop was a frustrating purchase. One thing I noticed is that the packaging arrived damaged.,negative,0,laptop
+863,"My experience with the laptop is that it is acceptable for the price. In particular, the delivery arrived on time.",neutral,1,laptop
+864,"My experience with the Bluetooth speaker is that it has made my daily routine much easier. In particular, the features are useful.",positive,2,Bluetooth speaker
+865,"My experience with the laptop is that it meets my basic expectations. In particular, the delivery arrived on time.",neutral,1,laptop
+866,"The wireless headphones is worth the money, and the controls are intuitive.",positive,2,wireless headphones
+867,I bought the smartphone recently. It is neither particularly good nor bad; the support response was acceptable.,neutral,1,smartphone
+868,I bought the Bluetooth speaker recently. It is easy to use; the performance is smooth.,positive,2,Bluetooth speaker
+869,"For a Bluetooth speaker, it has both good and average features. However, the sound quality is decent.",neutral,1,Bluetooth speaker
+870,"After using this Bluetooth speaker for a while, I found that it is usable but not outstanding. Also, the performance is adequate.",neutral,1,Bluetooth speaker
+871,The wireless headphones does not work properly. One thing I noticed is that the packaging arrived damaged.,negative,0,wireless headphones
+872,I bought the smartphone recently. It feels poorly made; the packaging arrived damaged.,negative,0,smartphone
+873,"For a Bluetooth speaker, it feels poorly made. However, the performance is slow.",negative,0,Bluetooth speaker
+874,"My experience with the laptop is that it has caused me several problems. In particular, the delivery was late.",negative,0,laptop
+875,The smartphone is easy to use. One thing I noticed is that the performance is smooth.,positive,2,smartphone
+876,I bought the Bluetooth speaker recently. It is worth the money; the features are useful.,positive,2,Bluetooth speaker
+877,"For a smartphone, it I would not recommend it. However, the battery drains very quickly.",negative,0,smartphone
+878,I bought the smartphone recently. It does not work properly; the delivery was late.,negative,0,smartphone
+879,I bought the Bluetooth speaker recently. It is worth the money; the performance is smooth.,positive,2,Bluetooth speaker
+880,"For a wireless headphones, it looks great and feels solid. However, the customer support was helpful.",positive,2,wireless headphones
+881,"After using this laptop for a while, I found that it works reasonably well. Also, the controls take some getting used to.",neutral,1,laptop
+882,"The smartphone was a frustrating purchase, and the battery drains very quickly.",negative,0,smartphone
+883,I bought the Bluetooth speaker recently. It has been very disappointing; the setup was confusing.,negative,0,Bluetooth speaker
+884,"The wireless headphones is usable but not outstanding, and the controls take some getting used to.",neutral,1,wireless headphones
+885,"The Bluetooth speaker is not worth the money, and the advertised features do not work.",negative,0,Bluetooth speaker
+886,I bought the laptop recently. It has been reliable so far; the design is comfortable.,positive,2,laptop
+887,"After using this smartphone for a while, I found that it looks great and feels solid. Also, the controls are intuitive.",positive,2,smartphone
+888,"After using this Bluetooth speaker for a while, I found that it is fine for basic use. Also, the sound quality is decent.",neutral,1,Bluetooth speaker
+889,"My experience with the Bluetooth speaker is that it is surprisingly durable. In particular, the setup was quick.",positive,2,Bluetooth speaker
+890,"My experience with the smartphone is that it does what it is supposed to do. In particular, the packaging was ordinary.",neutral,1,smartphone
+891,"The Bluetooth speaker has poor overall quality, and the performance is slow.",negative,0,Bluetooth speaker
+892,"My experience with the wireless headphones is that it is not worth the money. In particular, the delivery was late.",negative,0,wireless headphones
+893,"For a wireless headphones, it is okay overall. However, the controls take some getting used to.",neutral,1,wireless headphones
+894,I bought the smartphone recently. It has caused me several problems; the packaging arrived damaged.,negative,0,smartphone
+895,"The laptop is easy to use, and the delivery was fast.",positive,2,laptop
+896,"My experience with the smartphone is that it has poor overall quality. In particular, the setup was confusing.",negative,0,smartphone
+897,"For a wireless headphones, it does not work properly. However, the controls frequently stop responding.",negative,0,wireless headphones
+898,"My experience with the smartphone is that it does what it is supposed to do. In particular, the setup took some time.",neutral,1,smartphone
+899,"The wireless headphones is not worth the money, and the advertised features do not work.",negative,0,wireless headphones
+900,The smartphone I would not recommend it. One thing I noticed is that the setup was confusing.,negative,0,smartphone
+901,"After using this smartphone for a while, I found that it is fine for basic use. Also, the controls take some getting used to.",neutral,1,smartphone
+902,I bought the smartphone recently. It does what it is supposed to do; the delivery arrived on time.,neutral,1,smartphone
+903,"My experience with the smartphone is that it is worth the money. In particular, the packaging was secure.",positive,2,smartphone
+904,"The smartphone has been reliable so far, and the customer support was helpful.",positive,2,smartphone
+905,"For a wireless headphones, it feels well made. However, the customer support was helpful.",positive,2,wireless headphones
+906,"My experience with the smartphone is that it looks great and feels solid. In particular, the performance is smooth.",positive,2,smartphone
+907,"After using this wireless headphones for a while, I found that it meets my basic expectations. Also, the battery life is average.",neutral,1,wireless headphones
+908,"For a Bluetooth speaker, it feels well made. However, the customer support was helpful.",positive,2,Bluetooth speaker
+909,I bought the laptop recently. It was a frustrating purchase; the design is uncomfortable.,negative,0,laptop
+910,I bought the laptop recently. It feels well made; the features are useful.,positive,2,laptop
+911,I bought the Bluetooth speaker recently. It is usable but not outstanding; the packaging was ordinary.,neutral,1,Bluetooth speaker
+912,I bought the smartphone recently. It has been reliable so far; the features are useful.,positive,2,smartphone
+913,"My experience with the laptop is that it feels poorly made. In particular, the delivery was late.",negative,0,laptop
+914,"After using this wireless headphones for a while, I found that it feels poorly made. Also, the controls frequently stop responding.",negative,0,wireless headphones
+915,"The laptop was a frustrating purchase, and the performance is slow.",negative,0,laptop
+916,I bought the Bluetooth speaker recently. It is easy to use; the features are useful.,positive,2,Bluetooth speaker
+917,I bought the wireless headphones recently. It has both good and average features; the packaging was ordinary.,neutral,1,wireless headphones
+918,I bought the Bluetooth speaker recently. It performs really well; the packaging was secure.,positive,2,Bluetooth speaker
+919,"For a Bluetooth speaker, it performs worse than advertised. However, the sound is distorted.",negative,0,Bluetooth speaker
+920,I bought the laptop recently. It feels poorly made; customer support was unhelpful.,negative,0,laptop
+921,I bought the wireless headphones recently. It stopped working sooner than expected; the packaging arrived damaged.,negative,0,wireless headphones
+922,The laptop is neither particularly good nor bad. One thing I noticed is that the support response was acceptable.,neutral,1,laptop
+923,I bought the Bluetooth speaker recently. It is fine for basic use; the support response was acceptable.,neutral,1,Bluetooth speaker
+924,"After using this Bluetooth speaker for a while, I found that it looks great and feels solid. Also, the battery lasts all day.",positive,2,Bluetooth speaker
+925,"After using this Bluetooth speaker for a while, I found that it has poor overall quality. Also, the sound is distorted.",negative,0,Bluetooth speaker
+926,"My experience with the wireless headphones is that it is neither particularly good nor bad. In particular, the support response was acceptable.",neutral,1,wireless headphones
+927,"For a wireless headphones, it looks great and feels solid. However, the controls are intuitive.",positive,2,wireless headphones
+928,"My experience with the Bluetooth speaker is that it looks great and feels solid. In particular, the setup was quick.",positive,2,Bluetooth speaker
+929,The laptop meets my basic expectations. One thing I noticed is that the packaging was ordinary.,neutral,1,laptop
+930,"After using this wireless headphones for a while, I found that it stopped working sooner than expected. Also, the performance is slow.",negative,0,wireless headphones
+931,"The laptop has excellent quality, and the battery lasts all day.",positive,2,laptop
+932,"My experience with the Bluetooth speaker is that it is worth the money. In particular, the design is comfortable.",positive,2,Bluetooth speaker
+933,"After using this smartphone for a while, I found that it I would not recommend it. Also, the sound is distorted.",negative,0,smartphone
+934,The Bluetooth speaker works exactly as expected. One thing I noticed is that the design is comfortable.,positive,2,Bluetooth speaker
+935,I bought the Bluetooth speaker recently. It has excellent quality; the performance is smooth.,positive,2,Bluetooth speaker
+936,The laptop performs really well. One thing I noticed is that the performance is smooth.,positive,2,laptop
+937,I bought the smartphone recently. It works reasonably well; the design is fairly basic.,neutral,1,smartphone
+938,I bought the smartphone recently. It has excellent quality; the design is comfortable.,positive,2,smartphone
+939,"After using this smartphone for a while, I found that it is worth the money. Also, the delivery was fast.",positive,2,smartphone
+940,"For a Bluetooth speaker, it looks great and feels solid. However, the controls are intuitive.",positive,2,Bluetooth speaker
+941,The laptop looks great and feels solid. One thing I noticed is that the packaging was secure.,positive,2,laptop
+942,"The wireless headphones works exactly as expected, and the battery lasts all day.",positive,2,wireless headphones
+943,The smartphone is okay overall. One thing I noticed is that the support response was acceptable.,neutral,1,smartphone
+944,"For a smartphone, it performs worse than advertised. However, the battery drains very quickly.",negative,0,smartphone
+945,"For a laptop, it meets my basic expectations. However, the battery life is average.",neutral,1,laptop
+946,I bought the Bluetooth speaker recently. It has made my daily routine much easier; the packaging was secure.,positive,2,Bluetooth speaker
+947,"The smartphone performs worse than advertised, and the performance is slow.",negative,0,smartphone
+948,"My experience with the wireless headphones is that it feels well made. In particular, the setup was quick.",positive,2,wireless headphones
+949,The Bluetooth speaker works reasonably well. One thing I noticed is that the delivery arrived on time.,neutral,1,Bluetooth speaker
+950,"For a laptop, it works exactly as expected. However, the customer support was helpful.",positive,2,laptop
+951,The wireless headphones is worth the money. One thing I noticed is that the packaging was secure.,positive,2,wireless headphones
+952,The wireless headphones has made my daily routine much easier. One thing I noticed is that the design is comfortable.,positive,2,wireless headphones
+953,The smartphone has excellent quality. One thing I noticed is that the performance is smooth.,positive,2,smartphone
+954,"After using this Bluetooth speaker for a while, I found that it has made my daily routine much easier. Also, the customer support was helpful.",positive,2,Bluetooth speaker
+955,"After using this smartphone for a while, I found that it has caused me several problems. Also, the performance is slow.",negative,0,smartphone
+956,"For a smartphone, it is worth the money. However, the customer support was helpful.",positive,2,smartphone
+957,"For a laptop, it works exactly as expected. However, the controls are intuitive.",positive,2,laptop
+958,I bought the smartphone recently. It works reasonably well; the support response was acceptable.,neutral,1,smartphone
+959,"My experience with the smartphone is that it does not work properly. In particular, the setup was confusing.",negative,0,smartphone
+960,"For a laptop, it feels poorly made. However, the controls frequently stop responding.",negative,0,laptop
+961,The smartphone looks great and feels solid. One thing I noticed is that the design is comfortable.,positive,2,smartphone
+962,"My experience with the wireless headphones is that it is surprisingly durable. In particular, the setup was quick.",positive,2,wireless headphones
+963,I bought the smartphone recently. It has been very disappointing; the design is uncomfortable.,negative,0,smartphone
+964,"My experience with the wireless headphones is that it is acceptable for the price. In particular, the setup took some time.",neutral,1,wireless headphones
+965,I bought the wireless headphones recently. It does what it is supposed to do; the support response was acceptable.,neutral,1,wireless headphones
+966,"After using this laptop for a while, I found that it is acceptable for the price. Also, the sound quality is decent.",neutral,1,laptop
+967,"The smartphone meets my basic expectations, and the controls take some getting used to.",neutral,1,smartphone
+968,"After using this laptop for a while, I found that it performs really well. Also, the battery lasts all day.",positive,2,laptop
+969,The smartphone has excellent quality. One thing I noticed is that the features are useful.,positive,2,smartphone
+970,"After using this laptop for a while, I found that it is okay overall. Also, the performance is adequate.",neutral,1,laptop
+971,The smartphone does not work properly. One thing I noticed is that customer support was unhelpful.,negative,0,smartphone
+972,The wireless headphones has caused me several problems. One thing I noticed is that the design is uncomfortable.,negative,0,wireless headphones
+973,I bought the smartphone recently. It has caused me several problems; the setup was confusing.,negative,0,smartphone
+974,"My experience with the wireless headphones is that it works reasonably well. In particular, the design is fairly basic.",neutral,1,wireless headphones
+975,"For a Bluetooth speaker, it looks great and feels solid. However, the customer support was helpful.",positive,2,Bluetooth speaker
+976,"My experience with the laptop is that it has been very disappointing. In particular, the packaging arrived damaged.",negative,0,laptop
+977,"For a Bluetooth speaker, it has been reliable so far. However, the sound is clear.",positive,2,Bluetooth speaker
+978,"The laptop has not impressed me much, and the features are useful but limited.",neutral,1,laptop
+979,"After using this laptop for a while, I found that it has made my daily routine much easier. Also, the delivery was fast.",positive,2,laptop
+980,"For a laptop, it stopped working sooner than expected. However, the performance is slow.",negative,0,laptop
+981,"After using this wireless headphones for a while, I found that it has been very disappointing. Also, the advertised features do not work.",negative,0,wireless headphones
+982,"My experience with the smartphone is that it has caused me several problems. In particular, customer support was unhelpful.",negative,0,smartphone
+983,"The wireless headphones stopped working sooner than expected, and the controls frequently stop responding.",negative,0,wireless headphones
+984,"For a wireless headphones, it has not impressed me much. However, the performance is adequate.",neutral,1,wireless headphones
+985,The laptop has not impressed me much. One thing I noticed is that the setup took some time.,neutral,1,laptop
+986,I bought the laptop recently. It has caused me several problems; the design is uncomfortable.,negative,0,laptop
+987,"My experience with the Bluetooth speaker is that it has been very disappointing. In particular, the design is uncomfortable.",negative,0,Bluetooth speaker
+988,"The wireless headphones has made my daily routine much easier, and the delivery was fast.",positive,2,wireless headphones
+989,"After using this laptop for a while, I found that it is easy to use. Also, the customer support was helpful.",positive,2,laptop
+990,"After using this wireless headphones for a while, I found that it looks great and feels solid. Also, the battery lasts all day.",positive,2,wireless headphones
+991,"My experience with the smartphone is that it is okay overall. In particular, the setup took some time.",neutral,1,smartphone
+992,I bought the laptop recently. It is acceptable for the price; the design is fairly basic.,neutral,1,laptop
+993,"After using this Bluetooth speaker for a while, I found that it is easy to use. Also, the sound is clear.",positive,2,Bluetooth speaker
+994,"After using this laptop for a while, I found that it has been reliable so far. Also, the battery lasts all day.",positive,2,laptop
+995,"My experience with the Bluetooth speaker is that it is easy to use. In particular, the design is comfortable.",positive,2,Bluetooth speaker
+996,"For a laptop, it performs worse than advertised. However, the performance is slow.",negative,0,laptop
+997,"The laptop does what it is supposed to do, and the battery life is average.",neutral,1,laptop
+998,"My experience with the laptop is that it I would not recommend it. In particular, the packaging arrived damaged.",negative,0,laptop
+999,"My experience with the smartphone is that it looks great and feels solid. In particular, the features are useful.",positive,2,smartphone
+1000,"After using this wireless headphones for a while, I found that it does what it is supposed to do. Also, the sound quality is decent.",neutral,1,wireless headphones
+1001,"The smartphone has caused me several problems, and the battery drains very quickly.",negative,0,smartphone
+1002,I bought the smartphone recently. It is easy to use; the design is comfortable.,positive,2,smartphone
+1003,"The wireless headphones is okay overall, and the performance is adequate.",neutral,1,wireless headphones
+1004,"After using this smartphone for a while, I found that it is surprisingly durable. Also, the controls are intuitive.",positive,2,smartphone
+1005,I bought the smartphone recently. It looks great and feels solid; the packaging was secure.,positive,2,smartphone
+1006,"The Bluetooth speaker is okay overall, and the features are useful but limited.",neutral,1,Bluetooth speaker
+1007,"The laptop is fine for basic use, and the battery life is average.",neutral,1,laptop
+1008,The Bluetooth speaker looks great and feels solid. One thing I noticed is that the features are useful.,positive,2,Bluetooth speaker
+1009,"The Bluetooth speaker is easy to use, and the controls are intuitive.",positive,2,Bluetooth speaker
+1010,"The smartphone has not impressed me much, and the battery life is average.",neutral,1,smartphone
+1011,The laptop has both good and average features. One thing I noticed is that the support response was acceptable.,neutral,1,laptop
+1012,"My experience with the smartphone is that it has been reliable so far. In particular, the design is comfortable.",positive,2,smartphone
+1013,"After using this smartphone for a while, I found that it feels well made. Also, the customer support was helpful.",positive,2,smartphone
+1014,"For a wireless headphones, it meets my basic expectations. However, the features are useful but limited.",neutral,1,wireless headphones
+1015,I bought the wireless headphones recently. It has excellent quality; the features are useful.,positive,2,wireless headphones
+1016,"For a Bluetooth speaker, it does what it is supposed to do. However, the battery life is average.",neutral,1,Bluetooth speaker
+1017,"For a laptop, it looks great and feels solid. However, the battery lasts all day.",positive,2,laptop
+1018,"My experience with the smartphone is that it is not worth the money. In particular, the packaging arrived damaged.",negative,0,smartphone
+1019,"After using this smartphone for a while, I found that it is not worth the money. Also, the controls frequently stop responding.",negative,0,smartphone
+1020,"After using this Bluetooth speaker for a while, I found that it is worth the money. Also, the sound is clear.",positive,2,Bluetooth speaker
+1021,"The smartphone performs really well, and the controls are intuitive.",positive,2,smartphone
+1022,"My experience with the Bluetooth speaker is that it is not worth the money. In particular, the delivery was late.",negative,0,Bluetooth speaker
+1023,"After using this wireless headphones for a while, I found that it works reasonably well. Also, the performance is adequate.",neutral,1,wireless headphones
+1024,The smartphone has been reliable so far. One thing I noticed is that the setup was quick.,positive,2,smartphone
+1025,"For a smartphone, it is surprisingly durable. However, the sound is clear.",positive,2,smartphone
+1026,"The Bluetooth speaker feels well made, and the sound is clear.",positive,2,Bluetooth speaker
+1027,I bought the laptop recently. It has not impressed me much; the support response was acceptable.,neutral,1,laptop
+1028,"My experience with the wireless headphones is that it is neither particularly good nor bad. In particular, the design is fairly basic.",neutral,1,wireless headphones
+1029,"The smartphone was a frustrating purchase, and the controls frequently stop responding.",negative,0,smartphone
+1030,"For a laptop, it works reasonably well. However, the features are useful but limited.",neutral,1,laptop
+1031,The smartphone is not worth the money. One thing I noticed is that the design is uncomfortable.,negative,0,smartphone
+1032,"My experience with the Bluetooth speaker is that it has not impressed me much. In particular, the setup took some time.",neutral,1,Bluetooth speaker
+1033,I bought the smartphone recently. It looks great and feels solid; the setup was quick.,positive,2,smartphone
+1034,The smartphone I would not recommend it. One thing I noticed is that the packaging arrived damaged.,negative,0,smartphone
+1035,The wireless headphones looks great and feels solid. One thing I noticed is that the performance is smooth.,positive,2,wireless headphones
+1036,"My experience with the laptop is that it has poor overall quality. In particular, customer support was unhelpful.",negative,0,laptop
+1037,The laptop I would not recommend it. One thing I noticed is that the design is uncomfortable.,negative,0,laptop
+1038,"The laptop looks great and feels solid, and the customer support was helpful.",positive,2,laptop
+1039,"The wireless headphones works reasonably well, and the battery life is average.",neutral,1,wireless headphones
+1040,"After using this smartphone for a while, I found that it feels poorly made. Also, the performance is slow.",negative,0,smartphone
+1041,"For a laptop, it has been very disappointing. However, the performance is slow.",negative,0,laptop
+1042,The wireless headphones has been reliable so far. One thing I noticed is that the design is comfortable.,positive,2,wireless headphones
+1043,"The laptop is not worth the money, and the controls frequently stop responding.",negative,0,laptop
+1044,"My experience with the Bluetooth speaker is that it has been reliable so far. In particular, the features are useful.",positive,2,Bluetooth speaker
+1045,"The Bluetooth speaker was a frustrating purchase, and the sound is distorted.",negative,0,Bluetooth speaker
+1046,"The wireless headphones is surprisingly durable, and the sound is clear.",positive,2,wireless headphones
+1047,"My experience with the laptop is that it does not work properly. In particular, customer support was unhelpful.",negative,0,laptop
+1048,I bought the laptop recently. It is fine for basic use; the setup took some time.,neutral,1,laptop
+1049,I bought the wireless headphones recently. It has been very disappointing; the setup was confusing.,negative,0,wireless headphones
+1050,"For a smartphone, it does not work properly. However, the performance is slow.",negative,0,smartphone
+1051,"For a laptop, it is usable but not outstanding. However, the features are useful but limited.",neutral,1,laptop
+1052,I bought the smartphone recently. It is surprisingly durable; the setup was quick.,positive,2,smartphone
+1053,"After using this laptop for a while, I found that it is worth the money. Also, the customer support was helpful.",positive,2,laptop
+1054,The wireless headphones is fine for basic use. One thing I noticed is that the setup took some time.,neutral,1,wireless headphones
+1055,The laptop is neither particularly good nor bad. One thing I noticed is that the design is fairly basic.,neutral,1,laptop
+1056,"The Bluetooth speaker has made my daily routine much easier, and the delivery was fast.",positive,2,Bluetooth speaker
+1057,The Bluetooth speaker does not work properly. One thing I noticed is that the packaging arrived damaged.,negative,0,Bluetooth speaker
+1058,"After using this laptop for a while, I found that it is fine for basic use. Also, the features are useful but limited.",neutral,1,laptop
+1059,"My experience with the Bluetooth speaker is that it works reasonably well. In particular, the support response was acceptable.",neutral,1,Bluetooth speaker
+1060,"For a smartphone, it is worth the money. However, the controls are intuitive.",positive,2,smartphone
+1061,The laptop is acceptable for the price. One thing I noticed is that the packaging was ordinary.,neutral,1,laptop
+1062,"For a laptop, it has both good and average features. However, the performance is adequate.",neutral,1,laptop
+1063,The Bluetooth speaker is worth the money. One thing I noticed is that the setup was quick.,positive,2,Bluetooth speaker
+1064,"The Bluetooth speaker works exactly as expected, and the delivery was fast.",positive,2,Bluetooth speaker
+1065,The Bluetooth speaker is usable but not outstanding. One thing I noticed is that the delivery arrived on time.,neutral,1,Bluetooth speaker
+1066,The laptop is fine for basic use. One thing I noticed is that the delivery arrived on time.,neutral,1,laptop
+1067,"After using this laptop for a while, I found that it has excellent quality. Also, the controls are intuitive.",positive,2,laptop
+1068,"The smartphone has not impressed me much, and the controls take some getting used to.",neutral,1,smartphone
+1069,The laptop meets my basic expectations. One thing I noticed is that the setup took some time.,neutral,1,laptop
+1070,"My experience with the smartphone is that it is okay overall. In particular, the packaging was ordinary.",neutral,1,smartphone
+1071,"For a smartphone, it is acceptable for the price. However, the sound quality is decent.",neutral,1,smartphone
+1072,I bought the laptop recently. It is surprisingly durable; the features are useful.,positive,2,laptop
+1073,"After using this smartphone for a while, I found that it is fine for basic use. Also, the battery life is average.",neutral,1,smartphone
+1074,"The Bluetooth speaker is fine for basic use, and the features are useful but limited.",neutral,1,Bluetooth speaker
+1075,"My experience with the Bluetooth speaker is that it works exactly as expected. In particular, the features are useful.",positive,2,Bluetooth speaker
+1076,"The wireless headphones meets my basic expectations, and the sound quality is decent.",neutral,1,wireless headphones
+1077,The wireless headphones I would not recommend it. One thing I noticed is that the delivery was late.,negative,0,wireless headphones
+1078,"For a laptop, it feels well made. However, the battery lasts all day.",positive,2,laptop
+1079,I bought the smartphone recently. It is neither particularly good nor bad; the design is fairly basic.,neutral,1,smartphone
+1080,"The Bluetooth speaker is fine for basic use, and the performance is adequate.",neutral,1,Bluetooth speaker
+1081,"My experience with the wireless headphones is that it performs really well. In particular, the performance is smooth.",positive,2,wireless headphones
+1082,I bought the wireless headphones recently. It has made my daily routine much easier; the setup was quick.,positive,2,wireless headphones
+1083,"For a laptop, it has been reliable so far. However, the customer support was helpful.",positive,2,laptop
+1084,"After using this laptop for a while, I found that it has been very disappointing. Also, the controls frequently stop responding.",negative,0,laptop
+1085,"After using this Bluetooth speaker for a while, I found that it I would not recommend it. Also, the performance is slow.",negative,0,Bluetooth speaker
+1086,"For a Bluetooth speaker, it is usable but not outstanding. However, the sound quality is decent.",neutral,1,Bluetooth speaker
+1087,"For a wireless headphones, it is worth the money. However, the battery lasts all day.",positive,2,wireless headphones
+1088,I bought the Bluetooth speaker recently. It I would not recommend it; the packaging arrived damaged.,negative,0,Bluetooth speaker
+1089,"The Bluetooth speaker is neither particularly good nor bad, and the controls take some getting used to.",neutral,1,Bluetooth speaker
+1090,The laptop has made my daily routine much easier. One thing I noticed is that the features are useful.,positive,2,laptop
+1091,"The laptop feels well made, and the customer support was helpful.",positive,2,laptop
+1092,"After using this laptop for a while, I found that it is fine for basic use. Also, the performance is adequate.",neutral,1,laptop
+1093,"After using this laptop for a while, I found that it does what it is supposed to do. Also, the performance is adequate.",neutral,1,laptop
+1094,"For a smartphone, it performs really well. However, the battery lasts all day.",positive,2,smartphone
+1095,I bought the Bluetooth speaker recently. It is acceptable for the price; the delivery arrived on time.,neutral,1,Bluetooth speaker
+1096,I bought the laptop recently. It meets my basic expectations; the design is fairly basic.,neutral,1,laptop
+1097,"After using this wireless headphones for a while, I found that it I would not recommend it. Also, the advertised features do not work.",negative,0,wireless headphones
+1098,"For a wireless headphones, it works exactly as expected. However, the sound is clear.",positive,2,wireless headphones
+1099,"The wireless headphones works reasonably well, and the controls take some getting used to.",neutral,1,wireless headphones
+1100,"The smartphone works reasonably well, and the performance is adequate.",neutral,1,smartphone
+1101,I bought the laptop recently. It is worth the money; the setup was quick.,positive,2,laptop
+1102,"For a laptop, it is surprisingly durable. However, the delivery was fast.",positive,2,laptop
+1103,"My experience with the smartphone is that it feels well made. In particular, the features are useful.",positive,2,smartphone
+1104,I bought the Bluetooth speaker recently. It is okay overall; the support response was acceptable.,neutral,1,Bluetooth speaker
+1105,"After using this laptop for a while, I found that it has been very disappointing. Also, the battery drains very quickly.",negative,0,laptop
+1106,"After using this smartphone for a while, I found that it stopped working sooner than expected. Also, the sound is distorted.",negative,0,smartphone
+1107,The laptop is surprisingly durable. One thing I noticed is that the setup was quick.,positive,2,laptop
+1108,"For a wireless headphones, it is not worth the money. However, the battery drains very quickly.",negative,0,wireless headphones
+1109,I bought the laptop recently. It has excellent quality; the packaging was secure.,positive,2,laptop
+1110,"After using this laptop for a while, I found that it stopped working sooner than expected. Also, the battery drains very quickly.",negative,0,laptop
+1111,"The Bluetooth speaker has poor overall quality, and the advertised features do not work.",negative,0,Bluetooth speaker
+1112,"The laptop was a frustrating purchase, and the advertised features do not work.",negative,0,laptop
+1113,"The wireless headphones does what it is supposed to do, and the features are useful but limited.",neutral,1,wireless headphones
+1114,I bought the Bluetooth speaker recently. It I would not recommend it; the setup was confusing.,negative,0,Bluetooth speaker
+1115,"The smartphone is usable but not outstanding, and the performance is adequate.",neutral,1,smartphone
+1116,"For a laptop, it looks great and feels solid. However, the delivery was fast.",positive,2,laptop
+1117,I bought the laptop recently. It is fine for basic use; the packaging was ordinary.,neutral,1,laptop
+1118,"The smartphone is acceptable for the price, and the battery life is average.",neutral,1,smartphone
+1119,"For a wireless headphones, it performs worse than advertised. However, the sound is distorted.",negative,0,wireless headphones
+1120,"After using this wireless headphones for a while, I found that it does not work properly. Also, the sound is distorted.",negative,0,wireless headphones
+1121,"The laptop performs really well, and the sound is clear.",positive,2,laptop
+1122,"After using this wireless headphones for a while, I found that it is usable but not outstanding. Also, the performance is adequate.",neutral,1,wireless headphones
+1123,I bought the Bluetooth speaker recently. It has poor overall quality; customer support was unhelpful.,negative,0,Bluetooth speaker
+1124,I bought the smartphone recently. It was a frustrating purchase; the packaging arrived damaged.,negative,0,smartphone
+1125,"My experience with the Bluetooth speaker is that it is neither particularly good nor bad. In particular, the design is fairly basic.",neutral,1,Bluetooth speaker
+1126,"The laptop does not work properly, and the controls frequently stop responding.",negative,0,laptop
+1127,I bought the Bluetooth speaker recently. It is usable but not outstanding; the setup took some time.,neutral,1,Bluetooth speaker
+1128,"The laptop is worth the money, and the delivery was fast.",positive,2,laptop
+1129,"The wireless headphones is worth the money, and the customer support was helpful.",positive,2,wireless headphones
+1130,I bought the Bluetooth speaker recently. It stopped working sooner than expected; the packaging arrived damaged.,negative,0,Bluetooth speaker
+1131,I bought the Bluetooth speaker recently. It does what it is supposed to do; the support response was acceptable.,neutral,1,Bluetooth speaker
+1132,I bought the laptop recently. It I would not recommend it; the delivery was late.,negative,0,laptop
+1133,"The laptop has excellent quality, and the delivery was fast.",positive,2,laptop
+1134,I bought the wireless headphones recently. It has not impressed me much; the delivery arrived on time.,neutral,1,wireless headphones
+1135,"My experience with the wireless headphones is that it has excellent quality. In particular, the design is comfortable.",positive,2,wireless headphones
+1136,The laptop performs worse than advertised. One thing I noticed is that customer support was unhelpful.,negative,0,laptop
+1137,"My experience with the smartphone is that it has made my daily routine much easier. In particular, the design is comfortable.",positive,2,smartphone
+1138,"My experience with the laptop is that it has been very disappointing. In particular, the setup was confusing.",negative,0,laptop
+1139,The smartphone performs worse than advertised. One thing I noticed is that the setup was confusing.,negative,0,smartphone
+1140,The Bluetooth speaker is acceptable for the price. One thing I noticed is that the support response was acceptable.,neutral,1,Bluetooth speaker
+1141,I bought the wireless headphones recently. It works reasonably well; the setup took some time.,neutral,1,wireless headphones
+1142,"After using this Bluetooth speaker for a while, I found that it works reasonably well. Also, the performance is adequate.",neutral,1,Bluetooth speaker
+1143,The Bluetooth speaker feels well made. One thing I noticed is that the features are useful.,positive,2,Bluetooth speaker
+1144,"My experience with the smartphone is that it is neither particularly good nor bad. In particular, the delivery arrived on time.",neutral,1,smartphone
+1145,The laptop feels well made. One thing I noticed is that the setup was quick.,positive,2,laptop
+1146,"My experience with the laptop is that it feels well made. In particular, the design is comfortable.",positive,2,laptop
+1147,"For a Bluetooth speaker, it works exactly as expected. However, the sound is clear.",positive,2,Bluetooth speaker
+1148,I bought the laptop recently. It has been very disappointing; the delivery was late.,negative,0,laptop
+1149,"For a wireless headphones, it stopped working sooner than expected. However, the sound is distorted.",negative,0,wireless headphones
+1150,"My experience with the Bluetooth speaker is that it is okay overall. In particular, the delivery arrived on time.",neutral,1,Bluetooth speaker
+1151,"The smartphone works reasonably well, and the features are useful but limited.",neutral,1,smartphone
+1152,The Bluetooth speaker looks great and feels solid. One thing I noticed is that the performance is smooth.,positive,2,Bluetooth speaker
+1153,I bought the wireless headphones recently. It I would not recommend it; the setup was confusing.,negative,0,wireless headphones
+1154,I bought the wireless headphones recently. It has made my daily routine much easier; the packaging was secure.,positive,2,wireless headphones
+1155,"After using this smartphone for a while, I found that it is neither particularly good nor bad. Also, the sound quality is decent.",neutral,1,smartphone
+1156,"For a Bluetooth speaker, it is okay overall. However, the controls take some getting used to.",neutral,1,Bluetooth speaker
+1157,I bought the laptop recently. It is not worth the money; the setup was confusing.,negative,0,laptop
+1158,I bought the wireless headphones recently. It does not work properly; the design is uncomfortable.,negative,0,wireless headphones
+1159,"My experience with the Bluetooth speaker is that it does not work properly. In particular, the delivery was late.",negative,0,Bluetooth speaker
+1160,"After using this laptop for a while, I found that it works reasonably well. Also, the battery life is average.",neutral,1,laptop
+1161,"My experience with the Bluetooth speaker is that it was a frustrating purchase. In particular, the packaging arrived damaged.",negative,0,Bluetooth speaker
+1162,"For a smartphone, it performs worse than advertised. However, the controls frequently stop responding.",negative,0,smartphone
+1163,"For a wireless headphones, it is easy to use. However, the battery lasts all day.",positive,2,wireless headphones
+1164,"After using this wireless headphones for a while, I found that it feels poorly made. Also, the battery drains very quickly.",negative,0,wireless headphones
+1165,"The laptop is fine for basic use, and the controls take some getting used to.",neutral,1,laptop
+1166,"The Bluetooth speaker is surprisingly durable, and the sound is clear.",positive,2,Bluetooth speaker
+1167,I bought the wireless headphones recently. It has been reliable so far; the setup was quick.,positive,2,wireless headphones
+1168,"The smartphone is neither particularly good nor bad, and the performance is adequate.",neutral,1,smartphone
+1169,"For a Bluetooth speaker, it is worth the money. However, the battery lasts all day.",positive,2,Bluetooth speaker
+1170,"For a laptop, it meets my basic expectations. However, the controls take some getting used to.",neutral,1,laptop
+1171,I bought the smartphone recently. It is surprisingly durable; the packaging was secure.,positive,2,smartphone
+1172,"My experience with the smartphone is that it was a frustrating purchase. In particular, customer support was unhelpful.",negative,0,smartphone
+1173,I bought the smartphone recently. It is worth the money; the design is comfortable.,positive,2,smartphone
+1174,The laptop is usable but not outstanding. One thing I noticed is that the support response was acceptable.,neutral,1,laptop
+1175,"After using this smartphone for a while, I found that it does what it is supposed to do. Also, the battery life is average.",neutral,1,smartphone
+1176,"The laptop looks great and feels solid, and the controls are intuitive.",positive,2,laptop
+1177,"After using this wireless headphones for a while, I found that it is okay overall. Also, the sound quality is decent.",neutral,1,wireless headphones
+1178,"After using this wireless headphones for a while, I found that it is surprisingly durable. Also, the delivery was fast.",positive,2,wireless headphones
+1179,The Bluetooth speaker is fine for basic use. One thing I noticed is that the packaging was ordinary.,neutral,1,Bluetooth speaker
+1180,"The laptop has caused me several problems, and the performance is slow.",negative,0,laptop
+1181,"My experience with the wireless headphones is that it feels poorly made. In particular, the setup was confusing.",negative,0,wireless headphones
+1182,The wireless headphones has not impressed me much. One thing I noticed is that the support response was acceptable.,neutral,1,wireless headphones
+1183,"The laptop has poor overall quality, and the controls frequently stop responding.",negative,0,laptop
+1184,The smartphone is surprisingly durable. One thing I noticed is that the design is comfortable.,positive,2,smartphone
+1185,I bought the Bluetooth speaker recently. It was a frustrating purchase; the delivery was late.,negative,0,Bluetooth speaker
+1186,The wireless headphones works exactly as expected. One thing I noticed is that the design is comfortable.,positive,2,wireless headphones
+1187,I bought the Bluetooth speaker recently. It is not worth the money; the design is uncomfortable.,negative,0,Bluetooth speaker
+1188,"My experience with the Bluetooth speaker is that it is neither particularly good nor bad. In particular, the support response was acceptable.",neutral,1,Bluetooth speaker
+1189,"For a smartphone, it stopped working sooner than expected. However, the battery drains very quickly.",negative,0,smartphone
+1190,The wireless headphones is worth the money. One thing I noticed is that the setup was quick.,positive,2,wireless headphones
+1191,The Bluetooth speaker feels well made. One thing I noticed is that the performance is smooth.,positive,2,Bluetooth speaker
+1192,"My experience with the wireless headphones is that it was a frustrating purchase. In particular, the packaging arrived damaged.",negative,0,wireless headphones
+1193,"The Bluetooth speaker stopped working sooner than expected, and the battery drains very quickly.",negative,0,Bluetooth speaker
+1194,"The wireless headphones is neither particularly good nor bad, and the controls take some getting used to.",neutral,1,wireless headphones
+1195,I bought the smartphone recently. It feels poorly made; the setup was confusing.,negative,0,smartphone
+1196,"For a laptop, it is easy to use. However, the sound is clear.",positive,2,laptop
+1197,I bought the laptop recently. It has made my daily routine much easier; the design is comfortable.,positive,2,laptop
+1198,"The Bluetooth speaker has been reliable so far, and the battery lasts all day.",positive,2,Bluetooth speaker
+1199,"The wireless headphones performs really well, and the battery lasts all day.",positive,2,wireless headphones
+1200,"After using this Bluetooth speaker for a while, I found that it feels well made. Also, the delivery was fast.",positive,2,Bluetooth speaker

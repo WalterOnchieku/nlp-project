@@ -1,0 +1,6 @@
+__pycache__
+venv
+.env
+
+# Trained model
+sentiment_model/
