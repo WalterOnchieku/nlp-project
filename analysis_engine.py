@@ -46,7 +46,7 @@ class ReviewEngine:
 
         entities = [
             entity["word"]
-            for entities in entity_results
+            for entity in entity_results
         ]
 
         # Topic detection
