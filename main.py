@@ -92,7 +92,7 @@ def evaluate_real_reviews():
         "total_reviews": len(df),
         "correct_predictions": correct,
         "incorrect_predictions": len(df) - correct,
-        "acuracy": round(accuracy, 3),
+        "accuracy": round(accuracy, 3),
         "accuracy_percentage": round(accuracy * 100, 2),
         "results": results
     }

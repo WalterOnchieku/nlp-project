@@ -487,6 +487,59 @@ The exact sentiment, confidence, entities, and topics depend on the model's pred
 
 ---
 
+### Evaluate Real Customer Reviews
+
+```http
+GET /evaluate-real-reviews
+```
+
+This endpoint evaluates the trained NLP application against **20 real customer reviews** stored in:
+
+```text
+real_customer_reviews_20.csv
+```
+
+For each review, the endpoint:
+
+1. Loads the review and expected sentiment from the CSV file.
+2. Sends the review through the NLP engine.
+3. Retrieves the predicted sentiment, confidence, entities, and topics.
+4. Compares the predicted sentiment with the expected sentiment.
+5. Records whether the prediction was correct.
+6. Calculates the overall evaluation accuracy.
+
+The endpoint returns both an overall evaluation summary and the detailed results for each review.
+
+Example response structure:
+
+```json
+{
+    "total_reviews": 20,
+    "correct_predictions": 17,
+    "incorrect_predictions": 3,
+    "accuracy": 0.85,
+    "accuracy_percentage": 85.0,
+    "results": [
+        {
+            "id": 1,
+            "review": "The product works perfectly and I am very happy with it.",
+            "expected": "positive",
+            "predicted": "positive",
+            "confidence": 0.94,
+            "correct": true,
+            "entities": [],
+            "topics": [
+                "product"
+            ]
+        }
+    ]
+}
+```
+
+The actual values returned depend on the model's predictions.
+
+---
+
 ## 13. Testing the API
 
 The API can be tested through the automatically generated Swagger interface.
@@ -496,6 +549,8 @@ Open:
 ```text
 http://127.0.0.1:8000/docs
 ```
+
+### Test Individual Reviews
 
 Select:
 
@@ -525,43 +580,103 @@ Execute
 
 The API will return the sentiment classification, confidence score, detected entities, and detected topics.
 
+### Test Real Customer Reviews
+
+Select:
+
+```text
+GET /evaluate-real-reviews
+```
+
+Click:
+
+```text
+Try it out
+```
+
+Click:
+
+```text
+Execute
+```
+
+The endpoint will load the reviews from:
+
+```text
+real_customer_reviews_20.csv
+```
+
+and evaluate the model against all 20 real customer reviews.
+
+The response includes:
+
+* Total number of reviews
+* Correct predictions
+* Incorrect predictions
+* Overall accuracy
+* Accuracy percentage
+* Detailed results for each review
+
 ---
 
 ## 14. Real-World Evaluation
 
-The assignment requires testing the application with at least **20 real examples**.
+The application is evaluated using **20 real customer reviews** stored in:
 
-This evaluation should use genuine customer reviews that were not used to train the model.
+```text
+real_customer_reviews_20.csv
+```
 
-The evaluation will record:
+Each record contains an evaluation ID, the customer review, and its expected sentiment.
 
+The reviews are passed through the same NLP analysis engine used by the `/analyse` endpoint. The predicted sentiment is then compared with the expected sentiment stored in the evaluation dataset.
+
+For each review, the evaluation records:
+
+* Review ID
 * Review text
 * Expected sentiment
 * Predicted sentiment
-* Correct/incorrect result
-* Confidence
-* Relevant NLP output
+* Confidence score
+* Whether the prediction was correct
+* Detected entities
+* Detected topics
 
-A final evaluation table will be added in this section.
+The evaluation endpoint is:
 
-Example:
+```http
+GET /evaluate-real-reviews
+```
 
-| # | Review         | Expected | Predicted | Correct |
-| - | -------------- | -------- | --------- | ------- |
-| 1 | Example review | Positive | Positive  | Yes     |
-| 2 | Example review | Negative | Neutral   | No      |
-| 3 | Example review | Neutral  | Neutral   | Yes     |
+### Accuracy Calculation
 
-The final evaluation accuracy will be calculated as:
+The overall accuracy is calculated using:
 
 ```text
 Accuracy =
-Correct Predictions / 20 × 100
+Correct Predictions / Total Reviews
 ```
 
-This evaluation provides a more realistic indication of how the application performs on reviews outside the training dataset.
+The API also returns the accuracy as a percentage:
+
+```text
+Accuracy Percentage =
+Correct Predictions / Total Reviews × 100
+```
+
+For example, if the model correctly classifies 17 out of 20 reviews:
+
+```text
+Accuracy = 17 / 20
+         = 0.85
+
+Accuracy Percentage = 85%
+```
+
+This evaluation provides a more realistic indication of how the NLP application performs on previously unseen, real-world customer reviews.
 
 ---
+
 
 ## 15. Key Findings
 
